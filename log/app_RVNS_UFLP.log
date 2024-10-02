@@ -1,0 +1,594 @@
+[INFO ] 2024-05-16 12:10:01.918 [main] UFLP_Test - Instance: cap71, Optimal value: 932615.75, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:01.921 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:02.578 [main] UFLP_Test - RVNS: Value= 934199.138, Gap = 1583.387, Average Execution Time = 635, Acceptable = true
+[INFO ] 2024-05-16 12:10:02.943 [main] UFLP_Test - RVNS: Value= 934199.138, Gap = 1583.387, Average Execution Time = 363, Acceptable = true
+[INFO ] 2024-05-16 12:10:03.258 [main] UFLP_Test - RVNS: Value= 932615.750, Gap = 0.000, Average Execution Time = 311, Acceptable = true
+[INFO ] 2024-05-16 12:10:03.614 [main] UFLP_Test - RVNS: Value= 932615.750, Gap = 0.000, Average Execution Time = 355, Acceptable = true
+[INFO ] 2024-05-16 12:10:04.022 [main] UFLP_Test - RVNS: Value= 934829.450, Gap = 2213.700, Average Execution Time = 407, Acceptable = true
+[INFO ] 2024-05-16 12:10:04.426 [main] UFLP_Test - RVNS: Value= 934622.575, Gap = 2006.825, Average Execution Time = 401, Acceptable = true
+[INFO ] 2024-05-16 12:10:04.752 [main] UFLP_Test - RVNS: Value= 932615.750, Gap = 0.000, Average Execution Time = 325, Acceptable = true
+[INFO ] 2024-05-16 12:10:05.051 [main] UFLP_Test - RVNS: Value= 932615.750, Gap = 0.000, Average Execution Time = 298, Acceptable = true
+[INFO ] 2024-05-16 12:10:05.352 [main] UFLP_Test - RVNS: Value= 933876.300, Gap = 1260.550, Average Execution Time = 301, Acceptable = true
+[INFO ] 2024-05-16 12:10:05.677 [main] UFLP_Test - RVNS: Value= 933568.900, Gap = 953.150, Average Execution Time = 324, Acceptable = true
+[INFO ] 2024-05-16 12:10:05.681 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:05.681 [main] UFLP_Test - RVNS: Best Value= 932615.750, Gap = 0.000, Average Execution Time = 372, Acceptable = true
+[INFO ] 2024-05-16 12:10:05.681 [main] Result - Set of open facilities: [0, 1, 4, 7, 12, 13, 15]
+[INFO ] 2024-05-16 12:10:05.682 [main] Result - 0 : [2, 5, 13, 23, 29]
+[INFO ] 2024-05-16 12:10:05.682 [main] Result - 1 : [6, 33]
+[INFO ] 2024-05-16 12:10:05.682 [main] Result - 4 : [3, 7, 10, 11, 12, 16, 17, 18, 20, 22, 24, 25, 27, 31, 35, 36, 37, 39, 40, 41, 48]
+[INFO ] 2024-05-16 12:10:05.682 [main] Result - 7 : [0, 4, 8, 9, 15, 19, 38, 42, 45, 46, 47]
+[INFO ] 2024-05-16 12:10:05.682 [main] Result - 12 : [26, 44]
+[INFO ] 2024-05-16 12:10:05.682 [main] Result - 13 : [1, 14, 28, 34, 43, 49]
+[INFO ] 2024-05-16 12:10:05.682 [main] Result - 15 : [21, 30, 32]
+[INFO ] 2024-05-16 12:10:05.682 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:05.682 [main] UFLP_Test - Instance: cap72, Optimal value: 977799.4, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:05.682 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:06.020 [main] UFLP_Test - RVNS: Value= 979099.612, Gap = 1300.212, Average Execution Time = 330, Acceptable = true
+[INFO ] 2024-05-16 12:10:06.334 [main] UFLP_Test - RVNS: Value= 978876.300, Gap = 1076.900, Average Execution Time = 312, Acceptable = true
+[INFO ] 2024-05-16 12:10:06.646 [main] UFLP_Test - RVNS: Value= 978876.300, Gap = 1076.900, Average Execution Time = 312, Acceptable = true
+[INFO ] 2024-05-16 12:10:06.965 [main] UFLP_Test - RVNS: Value= 981234.362, Gap = 3434.962, Average Execution Time = 318, Acceptable = true
+[INFO ] 2024-05-16 12:10:07.286 [main] UFLP_Test - RVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 320, Acceptable = true
+[INFO ] 2024-05-16 12:10:07.607 [main] UFLP_Test - RVNS: Value= 980176.512, Gap = 2377.112, Average Execution Time = 321, Acceptable = true
+[INFO ] 2024-05-16 12:10:07.929 [main] UFLP_Test - RVNS: Value= 979934.150, Gap = 2134.750, Average Execution Time = 321, Acceptable = true
+[INFO ] 2024-05-16 12:10:08.250 [main] UFLP_Test - RVNS: Value= 978876.300, Gap = 1076.900, Average Execution Time = 319, Acceptable = true
+[INFO ] 2024-05-16 12:10:08.563 [main] UFLP_Test - RVNS: Value= 978876.300, Gap = 1076.900, Average Execution Time = 313, Acceptable = true
+[INFO ] 2024-05-16 12:10:08.880 [main] UFLP_Test - RVNS: Value= 980176.512, Gap = 2377.112, Average Execution Time = 316, Acceptable = true
+[INFO ] 2024-05-16 12:10:08.880 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:08.880 [main] UFLP_Test - RVNS: Best Value= 977799.400, Gap = 0.000, Average Execution Time = 318, Acceptable = true
+[INFO ] 2024-05-16 12:10:08.880 [main] Result - Set of open facilities: [0, 1, 3, 4, 6, 7, 11]
+[INFO ] 2024-05-16 12:10:08.880 [main] Result - 0 : [2, 5, 13, 23, 29, 30, 32]
+[INFO ] 2024-05-16 12:10:08.880 [main] Result - 1 : [6, 33]
+[INFO ] 2024-05-16 12:10:08.880 [main] Result - 3 : [10, 16, 18, 20, 40, 41]
+[INFO ] 2024-05-16 12:10:08.881 [main] Result - 4 : [3, 7, 11, 12, 17, 22, 25, 27, 28, 31, 36, 37, 39, 48]
+[INFO ] 2024-05-16 12:10:08.881 [main] Result - 6 : [14, 19, 21, 43, 47]
+[INFO ] 2024-05-16 12:10:08.881 [main] Result - 7 : [0, 4, 8, 9, 15, 26, 38, 42, 44, 45, 46]
+[INFO ] 2024-05-16 12:10:08.881 [main] Result - 11 : [1, 24, 34, 35, 49]
+[INFO ] 2024-05-16 12:10:08.881 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:08.881 [main] UFLP_Test - Instance: cap73, Optimal value: 1010641.45, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:08.881 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:09.222 [main] UFLP_Test - RVNS: Value= 1011067.650, Gap = 426.200, Average Execution Time = 333, Acceptable = true
+[INFO ] 2024-05-16 12:10:09.544 [main] UFLP_Test - RVNS: Value= 1010808.162, Gap = 166.712, Average Execution Time = 320, Acceptable = true
+[INFO ] 2024-05-16 12:10:09.852 [main] UFLP_Test - RVNS: Value= 1012476.975, Gap = 1835.525, Average Execution Time = 308, Acceptable = true
+[INFO ] 2024-05-16 12:10:10.152 [main] UFLP_Test - RVNS: Value= 1013673.412, Gap = 3031.962, Average Execution Time = 300, Acceptable = true
+[INFO ] 2024-05-16 12:10:10.470 [main] UFLP_Test - RVNS: Value= 1010808.162, Gap = 166.712, Average Execution Time = 318, Acceptable = true
+[INFO ] 2024-05-16 12:10:10.789 [main] UFLP_Test - RVNS: Value= 1011067.650, Gap = 426.200, Average Execution Time = 318, Acceptable = true
+[INFO ] 2024-05-16 12:10:11.090 [main] UFLP_Test - RVNS: Value= 1013930.575, Gap = 3289.125, Average Execution Time = 300, Acceptable = true
+[INFO ] 2024-05-16 12:10:11.404 [main] UFLP_Test - RVNS: Value= 1010808.162, Gap = 166.712, Average Execution Time = 313, Acceptable = true
+[INFO ] 2024-05-16 12:10:11.708 [main] UFLP_Test - RVNS: Value= 1013506.700, Gap = 2865.250, Average Execution Time = 303, Acceptable = true
+[INFO ] 2024-05-16 12:10:12.008 [main] UFLP_Test - RVNS: Value= 1010641.450, Gap = 0.000, Average Execution Time = 299, Acceptable = true
+[INFO ] 2024-05-16 12:10:12.009 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:12.009 [main] UFLP_Test - RVNS: Best Value= 1010641.450, Gap = 0.000, Average Execution Time = 311, Acceptable = true
+[INFO ] 2024-05-16 12:10:12.009 [main] Result - Set of open facilities: [0, 1, 3, 4, 5, 7, 8, 9, 13]
+[INFO ] 2024-05-16 12:10:12.009 [main] Result - 0 : [2, 5, 13, 23, 29]
+[INFO ] 2024-05-16 12:10:12.009 [main] Result - 1 : [6, 33]
+[INFO ] 2024-05-16 12:10:12.010 [main] Result - 3 : [10, 16, 18, 20, 24, 35, 40, 41, 49]
+[INFO ] 2024-05-16 12:10:12.010 [main] Result - 4 : [11, 22, 25, 27, 31, 39]
+[INFO ] 2024-05-16 12:10:12.010 [main] Result - 5 : [3, 7, 12, 36, 37, 48]
+[INFO ] 2024-05-16 12:10:12.010 [main] Result - 7 : [0, 4, 8, 9, 15, 19, 26, 38, 42, 44, 45, 46, 47]
+[INFO ] 2024-05-16 12:10:12.010 [main] Result - 8 : [17]
+[INFO ] 2024-05-16 12:10:12.010 [main] Result - 9 : [21, 43]
+[INFO ] 2024-05-16 12:10:12.010 [main] Result - 13 : [1, 14, 28, 30, 32, 34]
+[INFO ] 2024-05-16 12:10:12.010 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:12.010 [main] UFLP_Test - Instance: cap74, Optimal value: 1034976.975, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:12.010 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:12.342 [main] UFLP_Test - RVNS: Value= 1034976.975, Gap = 0.000, Average Execution Time = 323, Acceptable = true
+[INFO ] 2024-05-16 12:10:12.655 [main] UFLP_Test - RVNS: Value= 1037717.075, Gap = 2740.100, Average Execution Time = 312, Acceptable = true
+[INFO ] 2024-05-16 12:10:12.972 [main] UFLP_Test - RVNS: Value= 1034976.975, Gap = 0.000, Average Execution Time = 316, Acceptable = true
+[INFO ] 2024-05-16 12:10:13.281 [main] UFLP_Test - RVNS: Value= 1034976.975, Gap = 0.000, Average Execution Time = 308, Acceptable = true
+[INFO ] 2024-05-16 12:10:13.592 [main] UFLP_Test - RVNS: Value= 1038841.375, Gap = 3864.400, Average Execution Time = 311, Acceptable = true
+[INFO ] 2024-05-16 12:10:13.908 [main] UFLP_Test - RVNS: Value= 1034976.975, Gap = 0.000, Average Execution Time = 315, Acceptable = true
+[INFO ] 2024-05-16 12:10:14.223 [main] UFLP_Test - RVNS: Value= 1034976.975, Gap = 0.000, Average Execution Time = 314, Acceptable = true
+[INFO ] 2024-05-16 12:10:14.539 [main] UFLP_Test - RVNS: Value= 1043856.450, Gap = 8879.475, Average Execution Time = 315, Acceptable = true
+[INFO ] 2024-05-16 12:10:14.861 [main] UFLP_Test - RVNS: Value= 1037717.075, Gap = 2740.100, Average Execution Time = 318, Acceptable = true
+[INFO ] 2024-05-16 12:10:15.177 [main] UFLP_Test - RVNS: Value= 1034976.975, Gap = 0.000, Average Execution Time = 315, Acceptable = true
+[INFO ] 2024-05-16 12:10:15.177 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:15.177 [main] UFLP_Test - RVNS: Best Value= 1034976.975, Gap = 0.000, Average Execution Time = 314, Acceptable = true
+[INFO ] 2024-05-16 12:10:15.177 [main] Result - Set of open facilities: [1, 2, 3, 5, 6, 9, 11, 12, 13, 14]
+[INFO ] 2024-05-16 12:10:15.177 [main] Result - 1 : [6]
+[INFO ] 2024-05-16 12:10:15.178 [main] Result - 2 : [7, 33]
+[INFO ] 2024-05-16 12:10:15.178 [main] Result - 3 : [10, 11, 16, 18, 20, 22, 25, 27, 40, 41]
+[INFO ] 2024-05-16 12:10:15.178 [main] Result - 5 : [3, 12, 17, 36, 37, 39, 48]
+[INFO ] 2024-05-16 12:10:15.178 [main] Result - 6 : [14, 19, 43, 47]
+[INFO ] 2024-05-16 12:10:15.178 [main] Result - 9 : [21]
+[INFO ] 2024-05-16 12:10:15.178 [main] Result - 11 : [0, 1, 4, 8, 9, 15, 24, 34, 35, 38, 42, 45, 46, 49]
+[INFO ] 2024-05-16 12:10:15.178 [main] Result - 12 : [26, 44]
+[INFO ] 2024-05-16 12:10:15.178 [main] Result - 13 : [2, 5, 13, 23, 28, 30, 31, 32]
+[INFO ] 2024-05-16 12:10:15.178 [main] Result - 14 : [29]
+[INFO ] 2024-05-16 12:10:15.178 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:15.178 [main] UFLP_Test - Instance: cap101, Optimal value: 796648.437, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:15.178 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:15.795 [main] UFLP_Test - RVNS: Value= 803338.375, Gap = 6689.938, Average Execution Time = 605, Acceptable = true
+[INFO ] 2024-05-16 12:10:16.217 [main] UFLP_Test - RVNS: Value= 804768.400, Gap = 8119.963, Average Execution Time = 421, Acceptable = true
+[INFO ] 2024-05-16 12:10:16.633 [main] UFLP_Test - RVNS: Value= 804660.700, Gap = 8012.263, Average Execution Time = 415, Acceptable = true
+[INFO ] 2024-05-16 12:10:17.044 [main] UFLP_Test - RVNS: Value= 804473.725, Gap = 7825.288, Average Execution Time = 410, Acceptable = true
+[INFO ] 2024-05-16 12:10:17.454 [main] UFLP_Test - RVNS: Value= 805805.675, Gap = 9157.238, Average Execution Time = 409, Acceptable = true
+[INFO ] 2024-05-16 12:10:17.863 [main] UFLP_Test - RVNS: Value= 804704.200, Gap = 8055.763, Average Execution Time = 408, Acceptable = true
+[INFO ] 2024-05-16 12:10:18.258 [main] UFLP_Test - RVNS: Value= 804570.575, Gap = 7922.138, Average Execution Time = 394, Acceptable = true
+[INFO ] 2024-05-16 12:10:18.653 [main] UFLP_Test - RVNS: Value= 802242.475, Gap = 5594.038, Average Execution Time = 395, Acceptable = true
+[INFO ] 2024-05-16 12:10:19.057 [main] UFLP_Test - RVNS: Value= 804686.675, Gap = 8038.238, Average Execution Time = 403, Acceptable = true
+[INFO ] 2024-05-16 12:10:19.469 [main] UFLP_Test - RVNS: Value= 804352.938, Gap = 7704.500, Average Execution Time = 411, Acceptable = true
+[INFO ] 2024-05-16 12:10:19.469 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:19.469 [main] UFLP_Test - RVNS: Best Value= 802242.475, Gap = 5594.038, Average Execution Time = 427, Acceptable = true
+[INFO ] 2024-05-16 12:10:19.469 [main] Result - Set of open facilities: [0, 3, 6, 7, 8, 9, 10, 11, 13, 17, 18, 19, 20, 21, 23, 24]
+[INFO ] 2024-05-16 12:10:19.469 [main] Result - 0 : [2, 5, 13, 23, 29]
+[INFO ] 2024-05-16 12:10:19.469 [main] Result - 3 : [10, 16]
+[INFO ] 2024-05-16 12:10:19.469 [main] Result - 6 : [14, 19, 43, 47]
+[INFO ] 2024-05-16 12:10:19.469 [main] Result - 7 : [0, 9, 15]
+[INFO ] 2024-05-16 12:10:19.469 [main] Result - 8 : [7, 17]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 9 : [21]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 10 : [11, 12, 22, 25, 27, 31]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 11 : [1, 24, 34, 35, 49]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 13 : [28, 30, 32]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 17 : [6, 33, 36]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 18 : [37]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 19 : [40]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 20 : [4, 18, 20, 41]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 21 : [8, 26, 42, 44]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 23 : [38, 45, 46]
+[INFO ] 2024-05-16 12:10:19.470 [main] Result - 24 : [3, 39, 48]
+[INFO ] 2024-05-16 12:10:19.470 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:19.470 [main] UFLP_Test - Instance: cap102, Optimal value: 854704.2, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:19.470 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:19.904 [main] UFLP_Test - RVNS: Value= 859927.288, Gap = 5223.088, Average Execution Time = 425, Acceptable = true
+[INFO ] 2024-05-16 12:10:20.306 [main] UFLP_Test - RVNS: Value= 864483.450, Gap = 9779.250, Average Execution Time = 401, Acceptable = true
+[INFO ] 2024-05-16 12:10:20.721 [main] UFLP_Test - RVNS: Value= 863165.525, Gap = 8461.325, Average Execution Time = 414, Acceptable = true
+[INFO ] 2024-05-16 12:10:21.124 [main] UFLP_Test - RVNS: Value= 864669.938, Gap = 9965.738, Average Execution Time = 402, Acceptable = true
+[INFO ] 2024-05-16 12:10:21.535 [main] UFLP_Test - RVNS: Value= 865922.563, Gap = 11218.363, Average Execution Time = 410, Acceptable = true
+[INFO ] 2024-05-16 12:10:21.923 [main] UFLP_Test - RVNS: Value= 858675.063, Gap = 3970.863, Average Execution Time = 387, Acceptable = true
+[INFO ] 2024-05-16 12:10:22.333 [main] UFLP_Test - RVNS: Value= 861958.600, Gap = 7254.400, Average Execution Time = 409, Acceptable = true
+[INFO ] 2024-05-16 12:10:22.743 [main] UFLP_Test - RVNS: Value= 861230.800, Gap = 6526.600, Average Execution Time = 408, Acceptable = true
+[INFO ] 2024-05-16 12:10:23.155 [main] UFLP_Test - RVNS: Value= 858632.038, Gap = 3927.838, Average Execution Time = 412, Acceptable = true
+[INFO ] 2024-05-16 12:10:23.566 [main] UFLP_Test - RVNS: Value= 863638.288, Gap = 8934.088, Average Execution Time = 410, Acceptable = true
+[INFO ] 2024-05-16 12:10:23.566 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:23.567 [main] UFLP_Test - RVNS: Best Value= 858632.038, Gap = 3927.838, Average Execution Time = 407, Acceptable = true
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - Set of open facilities: [0, 1, 2, 4, 8, 9, 10, 14, 15, 16, 18, 19, 23, 24]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 0 : [2, 5, 13, 23]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 1 : [6]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 2 : [7]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 4 : [11, 25]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 8 : [17]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 9 : [14, 21, 43]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 10 : [10, 12, 18, 20, 22, 27, 31, 41]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 14 : [29]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 15 : [30, 32]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 16 : [33]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 18 : [37]
+[INFO ] 2024-05-16 12:10:23.567 [main] Result - 19 : [0, 1, 4, 8, 9, 15, 16, 19, 24, 26, 28, 34, 35, 40, 42, 47, 49]
+[INFO ] 2024-05-16 12:10:23.568 [main] Result - 23 : [38, 44, 45, 46]
+[INFO ] 2024-05-16 12:10:23.568 [main] Result - 24 : [3, 36, 39, 48]
+[INFO ] 2024-05-16 12:10:23.568 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:23.568 [main] UFLP_Test - Instance: cap103, Optimal value: 893782.112, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:23.568 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:24.002 [main] UFLP_Test - RVNS: Value= 906877.838, Gap = 13095.726, Average Execution Time = 426, Acceptable = true
+[INFO ] 2024-05-16 12:10:24.416 [main] UFLP_Test - RVNS: Value= 905825.800, Gap = 12043.688, Average Execution Time = 414, Acceptable = true
+[INFO ] 2024-05-16 12:10:24.820 [main] UFLP_Test - RVNS: Value= 900320.675, Gap = 6538.563, Average Execution Time = 403, Acceptable = true
+[INFO ] 2024-05-16 12:10:25.235 [main] UFLP_Test - RVNS: Value= 908693.088, Gap = 14910.976, Average Execution Time = 415, Acceptable = true
+[INFO ] 2024-05-16 12:10:25.647 [main] UFLP_Test - RVNS: Value= 906092.488, Gap = 12310.376, Average Execution Time = 411, Acceptable = true
+[INFO ] 2024-05-16 12:10:26.069 [main] UFLP_Test - RVNS: Value= 899287.013, Gap = 5504.901, Average Execution Time = 421, Acceptable = true
+[INFO ] 2024-05-16 12:10:26.520 [main] UFLP_Test - RVNS: Value= 911758.650, Gap = 17976.538, Average Execution Time = 450, Acceptable = true
+[INFO ] 2024-05-16 12:10:26.953 [main] UFLP_Test - RVNS: Value= 898441.925, Gap = 4659.813, Average Execution Time = 432, Acceptable = true
+[INFO ] 2024-05-16 12:10:27.371 [main] UFLP_Test - RVNS: Value= 895841.263, Gap = 2059.150, Average Execution Time = 416, Acceptable = true
+[INFO ] 2024-05-16 12:10:27.783 [main] UFLP_Test - RVNS: Value= 904347.438, Gap = 10565.326, Average Execution Time = 412, Acceptable = true
+[INFO ] 2024-05-16 12:10:27.783 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:27.783 [main] UFLP_Test - RVNS: Best Value= 895841.263, Gap = 2059.150, Average Execution Time = 420, Acceptable = true
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - Set of open facilities: [6, 7, 10, 12, 13, 14, 19, 20, 22, 23, 24]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 6 : [1, 14, 19, 21, 43, 47]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 7 : [0, 9, 15, 42]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 10 : [2, 7, 10, 11, 12, 13, 17, 22, 23, 25, 27, 31, 37]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 12 : [26]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 13 : [5, 28, 30, 32]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 14 : [29]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 19 : [16, 24, 34, 35, 40, 49]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 20 : [4, 8, 18, 20, 41]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 22 : [44]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 23 : [38, 45, 46]
+[INFO ] 2024-05-16 12:10:27.784 [main] Result - 24 : [3, 6, 33, 36, 39, 48]
+[INFO ] 2024-05-16 12:10:27.784 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:27.784 [main] UFLP_Test - Instance: cap104, Optimal value: 928941.75, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:27.784 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:28.200 [main] UFLP_Test - RVNS: Value= 955438.975, Gap = 26497.225, Average Execution Time = 408, Acceptable = true
+[INFO ] 2024-05-16 12:10:28.619 [main] UFLP_Test - RVNS: Value= 939945.925, Gap = 11004.175, Average Execution Time = 418, Acceptable = true
+[INFO ] 2024-05-16 12:10:29.031 [main] UFLP_Test - RVNS: Value= 955695.388, Gap = 26753.638, Average Execution Time = 411, Acceptable = true
+[INFO ] 2024-05-16 12:10:29.421 [main] UFLP_Test - RVNS: Value= 945575.900, Gap = 16634.150, Average Execution Time = 389, Acceptable = true
+[INFO ] 2024-05-16 12:10:29.826 [main] UFLP_Test - RVNS: Value= 952947.613, Gap = 24005.863, Average Execution Time = 404, Acceptable = true
+[INFO ] 2024-05-16 12:10:30.242 [main] UFLP_Test - RVNS: Value= 954734.025, Gap = 25792.275, Average Execution Time = 415, Acceptable = true
+[INFO ] 2024-05-16 12:10:30.647 [main] UFLP_Test - RVNS: Value= 959974.338, Gap = 31032.588, Average Execution Time = 404, Acceptable = true
+[INFO ] 2024-05-16 12:10:31.064 [main] UFLP_Test - RVNS: Value= 952770.638, Gap = 23828.888, Average Execution Time = 416, Acceptable = true
+[INFO ] 2024-05-16 12:10:31.479 [main] UFLP_Test - RVNS: Value= 948210.313, Gap = 19268.563, Average Execution Time = 413, Acceptable = true
+[INFO ] 2024-05-16 12:10:31.892 [main] UFLP_Test - RVNS: Value= 954415.713, Gap = 25473.963, Average Execution Time = 413, Acceptable = true
+[INFO ] 2024-05-16 12:10:31.892 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:31.892 [main] UFLP_Test - RVNS: Best Value= 939945.925, Gap = 11004.175, Average Execution Time = 409, Acceptable = true
+[INFO ] 2024-05-16 12:10:31.892 [main] Result - Set of open facilities: [0, 3, 4, 6, 7, 8, 14, 15, 16, 19, 20, 22, 23, 24]
+[INFO ] 2024-05-16 12:10:31.892 [main] Result - 0 : [2, 5, 13, 23]
+[INFO ] 2024-05-16 12:10:31.892 [main] Result - 3 : [10, 16]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 4 : [11, 12, 22, 25, 27, 31, 37]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 6 : [1, 14, 19, 21, 43, 47]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 7 : [0, 9, 15, 42]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 8 : [7, 17]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 14 : [29]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 15 : [30, 32]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 16 : [6, 33]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 19 : [24, 28, 34, 35, 40, 49]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 20 : [4, 8, 18, 20, 41]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 22 : [26, 44]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 23 : [38, 45, 46]
+[INFO ] 2024-05-16 12:10:31.893 [main] Result - 24 : [3, 36, 39, 48]
+[INFO ] 2024-05-16 12:10:31.893 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:31.893 [main] UFLP_Test - Instance: cap131, Optimal value: 793439.562, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:31.893 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:32.599 [main] UFLP_Test - RVNS: Value= 825882.938, Gap = 32443.376, Average Execution Time = 697, Acceptable = true
+[INFO ] 2024-05-16 12:10:33.294 [main] UFLP_Test - RVNS: Value= 835475.213, Gap = 42035.650, Average Execution Time = 693, Acceptable = true
+[INFO ] 2024-05-16 12:10:33.970 [main] UFLP_Test - RVNS: Value= 829596.863, Gap = 36157.301, Average Execution Time = 674, Acceptable = true
+[INFO ] 2024-05-16 12:10:34.671 [main] UFLP_Test - RVNS: Value= 821808.100, Gap = 28368.538, Average Execution Time = 699, Acceptable = true
+[INFO ] 2024-05-16 12:10:35.341 [main] UFLP_Test - RVNS: Value= 838615.525, Gap = 45175.963, Average Execution Time = 668, Acceptable = true
+[INFO ] 2024-05-16 12:10:36.031 [main] UFLP_Test - RVNS: Value= 835657.850, Gap = 42218.288, Average Execution Time = 689, Acceptable = true
+[INFO ] 2024-05-16 12:10:36.732 [main] UFLP_Test - RVNS: Value= 844539.450, Gap = 51099.888, Average Execution Time = 700, Acceptable = true
+[INFO ] 2024-05-16 12:10:37.436 [main] UFLP_Test - RVNS: Value= 843695.938, Gap = 50256.376, Average Execution Time = 703, Acceptable = true
+[INFO ] 2024-05-16 12:10:38.096 [main] UFLP_Test - RVNS: Value= 828269.713, Gap = 34830.150, Average Execution Time = 659, Acceptable = true
+[INFO ] 2024-05-16 12:10:38.758 [main] UFLP_Test - RVNS: Value= 841427.363, Gap = 47987.801, Average Execution Time = 661, Acceptable = true
+[INFO ] 2024-05-16 12:10:38.758 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:38.759 [main] UFLP_Test - RVNS: Best Value= 821808.100, Gap = 28368.538, Average Execution Time = 684, Acceptable = true
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - Set of open facilities: [2, 7, 8, 9, 10, 11, 12, 14, 17, 18, 20, 21, 23, 25, 26, 27, 29, 31, 32, 34, 35, 36, 40, 42, 43, 45, 47]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 2 : [2]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 7 : [7]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 8 : [8, 46]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 9 : [9, 15]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 10 : [10, 16]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 11 : [11, 22]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 12 : [12, 37]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 14 : [14]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 17 : [17]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 18 : [18, 41]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 20 : [4, 20]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 21 : [21]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 23 : [23]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 25 : [13, 25]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 26 : [26, 44]
+[INFO ] 2024-05-16 12:10:38.759 [main] Result - 27 : [27]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 29 : [29]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 31 : [5, 28, 31]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 32 : [30, 32]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 34 : [0, 1, 19, 34, 49]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 35 : [35]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 36 : [3, 6, 33, 36, 39, 48]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 40 : [24, 40]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 42 : [42]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 43 : [43]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 45 : [38, 45]
+[INFO ] 2024-05-16 12:10:38.760 [main] Result - 47 : [47]
+[INFO ] 2024-05-16 12:10:38.760 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:38.760 [main] UFLP_Test - Instance: cap132, Optimal value: 851495.325, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:38.761 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:39.484 [main] UFLP_Test - RVNS: Value= 925173.900, Gap = 73678.575, Average Execution Time = 715, Acceptable = true
+[INFO ] 2024-05-16 12:10:40.181 [main] UFLP_Test - RVNS: Value= 920538.087, Gap = 69042.762, Average Execution Time = 696, Acceptable = true
+[INFO ] 2024-05-16 12:10:40.855 [main] UFLP_Test - RVNS: Value= 902289.900, Gap = 50794.575, Average Execution Time = 673, Acceptable = true
+[INFO ] 2024-05-16 12:10:41.542 [main] UFLP_Test - RVNS: Value= 913289.463, Gap = 61794.138, Average Execution Time = 686, Acceptable = true
+[INFO ] 2024-05-16 12:10:42.241 [main] UFLP_Test - RVNS: Value= 913801.538, Gap = 62306.213, Average Execution Time = 697, Acceptable = true
+[INFO ] 2024-05-16 12:10:42.926 [main] UFLP_Test - RVNS: Value= 935430.013, Gap = 83934.688, Average Execution Time = 685, Acceptable = true
+[INFO ] 2024-05-16 12:10:43.619 [main] UFLP_Test - RVNS: Value= 902294.850, Gap = 50799.525, Average Execution Time = 692, Acceptable = true
+[INFO ] 2024-05-16 12:10:44.305 [main] UFLP_Test - RVNS: Value= 925342.550, Gap = 73847.225, Average Execution Time = 685, Acceptable = true
+[INFO ] 2024-05-16 12:10:44.978 [main] UFLP_Test - RVNS: Value= 927447.950, Gap = 75952.625, Average Execution Time = 672, Acceptable = true
+[INFO ] 2024-05-16 12:10:45.674 [main] UFLP_Test - RVNS: Value= 920691.713, Gap = 69196.388, Average Execution Time = 695, Acceptable = true
+[INFO ] 2024-05-16 12:10:45.674 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:45.674 [main] UFLP_Test - RVNS: Best Value= 902289.900, Gap = 50794.575, Average Execution Time = 689, Acceptable = true
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - Set of open facilities: [0, 3, 6, 7, 9, 10, 14, 15, 17, 18, 19, 22, 27, 28, 29, 33, 34, 35, 37, 40, 41, 42, 43, 46, 48, 49]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 0 : [0]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 3 : [3, 36]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 6 : [6]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 7 : [7]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 9 : [4, 9]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 10 : [10, 16]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 14 : [14, 21]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 15 : [15]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 17 : [17]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 18 : [18]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 19 : [19, 26, 47]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 22 : [11, 12, 22]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 27 : [2, 5, 13, 23, 25, 27, 31]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 28 : [28, 30, 32]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 29 : [29]
+[INFO ] 2024-05-16 12:10:45.675 [main] Result - 33 : [33]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 34 : [1, 34]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 35 : [35]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 37 : [37]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 40 : [24, 40]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 41 : [20, 41]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 42 : [8, 42, 44]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 43 : [43]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 46 : [38, 45, 46]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 48 : [39, 48]
+[INFO ] 2024-05-16 12:10:45.676 [main] Result - 49 : [49]
+[INFO ] 2024-05-16 12:10:45.676 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:45.676 [main] UFLP_Test - Instance: cap133, Optimal value: 893076.712, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:45.676 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:46.364 [main] UFLP_Test - RVNS: Value= 984336.575, Gap = 91259.863, Average Execution Time = 680, Acceptable = true
+[INFO ] 2024-05-16 12:10:47.055 [main] UFLP_Test - RVNS: Value= 990094.763, Gap = 97018.050, Average Execution Time = 690, Acceptable = true
+[INFO ] 2024-05-16 12:10:47.750 [main] UFLP_Test - RVNS: Value= 987983.025, Gap = 94906.313, Average Execution Time = 694, Acceptable = true
+[INFO ] 2024-05-16 12:10:48.440 [main] UFLP_Test - RVNS: Value= 1000475.400, Gap = 107398.688, Average Execution Time = 689, Acceptable = true
+[INFO ] 2024-05-16 12:10:49.125 [main] UFLP_Test - RVNS: Value= 1008688.100, Gap = 115611.388, Average Execution Time = 684, Acceptable = true
+[INFO ] 2024-05-16 12:10:49.798 [main] UFLP_Test - RVNS: Value= 964155.763, Gap = 71079.050, Average Execution Time = 672, Acceptable = true
+[INFO ] 2024-05-16 12:10:50.492 [main] UFLP_Test - RVNS: Value= 1005287.650, Gap = 112210.938, Average Execution Time = 693, Acceptable = true
+[INFO ] 2024-05-16 12:10:51.184 [main] UFLP_Test - RVNS: Value= 990439.775, Gap = 97363.063, Average Execution Time = 690, Acceptable = true
+[INFO ] 2024-05-16 12:10:51.877 [main] UFLP_Test - RVNS: Value= 1003208.325, Gap = 110131.613, Average Execution Time = 693, Acceptable = true
+[INFO ] 2024-05-16 12:10:52.566 [main] UFLP_Test - RVNS: Value= 1000772.237, Gap = 107695.525, Average Execution Time = 688, Acceptable = true
+[INFO ] 2024-05-16 12:10:52.567 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:52.567 [main] UFLP_Test - RVNS: Best Value= 964155.763, Gap = 71079.050, Average Execution Time = 687, Acceptable = true
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - Set of open facilities: [0, 2, 3, 4, 6, 10, 12, 16, 19, 23, 25, 26, 31, 32, 33, 35, 37, 38, 39, 40, 42, 43, 47]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 0 : [0]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 2 : [2]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 3 : [3, 36, 48]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 4 : [4, 8, 46]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 6 : [6]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 10 : [10, 11, 18, 20, 22, 41]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 12 : [7, 12, 17]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 16 : [16]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 19 : [19]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 23 : [23, 29]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 25 : [13, 25]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 26 : [26, 44]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 31 : [5, 27, 28, 31]
+[INFO ] 2024-05-16 12:10:52.567 [main] Result - 32 : [21, 30, 32]
+[INFO ] 2024-05-16 12:10:52.568 [main] Result - 33 : [33]
+[INFO ] 2024-05-16 12:10:52.568 [main] Result - 35 : [9, 15, 35]
+[INFO ] 2024-05-16 12:10:52.568 [main] Result - 37 : [37]
+[INFO ] 2024-05-16 12:10:52.568 [main] Result - 38 : [38, 45]
+[INFO ] 2024-05-16 12:10:52.568 [main] Result - 39 : [39]
+[INFO ] 2024-05-16 12:10:52.568 [main] Result - 40 : [1, 14, 24, 34, 40, 49]
+[INFO ] 2024-05-16 12:10:52.568 [main] Result - 42 : [42]
+[INFO ] 2024-05-16 12:10:52.568 [main] Result - 43 : [43]
+[INFO ] 2024-05-16 12:10:52.568 [main] Result - 47 : [47]
+[INFO ] 2024-05-16 12:10:52.568 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:52.568 [main] UFLP_Test - Instance: cap134, Optimal value: 928941.75, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:52.568 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:53.250 [main] UFLP_Test - RVNS: Value= 1105334.350, Gap = 176392.600, Average Execution Time = 673, Acceptable = true
+[INFO ] 2024-05-16 12:10:53.928 [main] UFLP_Test - RVNS: Value= 1089348.788, Gap = 160407.038, Average Execution Time = 677, Acceptable = true
+[INFO ] 2024-05-16 12:10:54.614 [main] UFLP_Test - RVNS: Value= 1102749.775, Gap = 173808.025, Average Execution Time = 685, Acceptable = true
+[INFO ] 2024-05-16 12:10:55.313 [main] UFLP_Test - RVNS: Value= 1107529.813, Gap = 178588.063, Average Execution Time = 698, Acceptable = true
+[INFO ] 2024-05-16 12:10:56.004 [main] UFLP_Test - RVNS: Value= 1053432.175, Gap = 124490.425, Average Execution Time = 690, Acceptable = true
+[INFO ] 2024-05-16 12:10:56.691 [main] UFLP_Test - RVNS: Value= 1069094.725, Gap = 140152.975, Average Execution Time = 686, Acceptable = true
+[INFO ] 2024-05-16 12:10:57.388 [main] UFLP_Test - RVNS: Value= 1081128.463, Gap = 152186.712, Average Execution Time = 695, Acceptable = true
+[INFO ] 2024-05-16 12:10:58.077 [main] UFLP_Test - RVNS: Value= 1059524.088, Gap = 130582.337, Average Execution Time = 684, Acceptable = true
+[INFO ] 2024-05-16 12:10:58.759 [main] UFLP_Test - RVNS: Value= 1106048.313, Gap = 177106.563, Average Execution Time = 681, Acceptable = true
+[INFO ] 2024-05-16 12:10:59.449 [main] UFLP_Test - RVNS: Value= 1053111.925, Gap = 124170.175, Average Execution Time = 689, Acceptable = true
+[INFO ] 2024-05-16 12:10:59.450 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:10:59.450 [main] UFLP_Test - RVNS: Best Value= 1053111.925, Gap = 124170.175, Average Execution Time = 685, Acceptable = true
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - Set of open facilities: [1, 2, 3, 11, 12, 16, 17, 18, 19, 20, 21, 25, 29, 30, 35, 40, 41, 44, 46, 48, 49]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 1 : [0, 1]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 2 : [2, 23]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 3 : [3, 6, 33, 36]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 11 : [10, 11, 22, 27, 31]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 12 : [7, 12, 37]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 16 : [16]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 17 : [17]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 18 : [18]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 19 : [19, 26, 47]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 20 : [4, 8, 20]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 21 : [21, 43]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 25 : [5, 13, 25]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 29 : [29]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 30 : [30, 32]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 35 : [9, 15, 35, 42]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 40 : [24, 28, 40]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 41 : [41]
+[INFO ] 2024-05-16 12:10:59.450 [main] Result - 44 : [44]
+[INFO ] 2024-05-16 12:10:59.451 [main] Result - 46 : [38, 45, 46]
+[INFO ] 2024-05-16 12:10:59.451 [main] Result - 48 : [39, 48]
+[INFO ] 2024-05-16 12:10:59.451 [main] Result - 49 : [14, 34, 49]
+[INFO ] 2024-05-16 12:10:59.451 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:10:59.451 [main] UFLP_Test - Instance: capa1, Optimal value: 1.7156454478E7, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:10:59.451 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:11:21.378 [main] UFLP_Test - RVNS: Value= 58860348.154, Gap = 41703893.676, Average Execution Time = 21899, Acceptable = true
+[INFO ] 2024-05-16 12:11:44.628 [main] UFLP_Test - RVNS: Value= 41630419.089, Gap = 24473964.611, Average Execution Time = 23230, Acceptable = true
+[INFO ] 2024-05-16 12:12:10.618 [main] UFLP_Test - RVNS: Value= 37901173.588, Gap = 20744719.110, Average Execution Time = 25967, Acceptable = true
+[INFO ] 2024-05-16 12:12:35.585 [main] UFLP_Test - RVNS: Value= 46099186.750, Gap = 28942732.272, Average Execution Time = 24946, Acceptable = true
+[INFO ] 2024-05-16 12:13:01.193 [main] UFLP_Test - RVNS: Value= 41396410.084, Gap = 24239955.606, Average Execution Time = 25589, Acceptable = true
+[INFO ] 2024-05-16 12:13:27.639 [main] UFLP_Test - RVNS: Value= 45160616.645, Gap = 28004162.167, Average Execution Time = 26423, Acceptable = true
+[INFO ] 2024-05-16 12:13:54.718 [main] UFLP_Test - RVNS: Value= 44945999.590, Gap = 27789545.112, Average Execution Time = 27056, Acceptable = true
+[INFO ] 2024-05-16 12:14:31.161 [main] UFLP_Test - RVNS: Value= 38141227.823, Gap = 20984773.345, Average Execution Time = 36422, Acceptable = true
+[INFO ] 2024-05-16 12:14:58.331 [main] UFLP_Test - RVNS: Value= 55496327.274, Gap = 38339872.796, Average Execution Time = 27149, Acceptable = true
+[INFO ] 2024-05-16 12:15:24.304 [main] UFLP_Test - RVNS: Value= 49707635.038, Gap = 32551180.560, Average Execution Time = 25950, Acceptable = true
+[INFO ] 2024-05-16 12:15:24.304 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:15:24.304 [main] UFLP_Test - RVNS: Best Value= 37901173.588, Gap = 20744719.110, Average Execution Time = 26463, Acceptable = true
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - Set of open facilities: [3, 4, 5, 7, 8, 11, 12, 13, 14, 15, 16, 20, 23, 25, 26, 29, 32, 33, 34, 36, 37, 38, 39, 40, 42, 44, 46, 47, 53, 57, 58, 62, 65, 69, 70, 71, 72, 73, 74, 81, 82, 83, 85, 88, 89, 93, 95, 96, 97, 98]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 3 : [22, 43, 143, 221, 258, 301, 373, 376, 429, 547, 732, 920]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 4 : [59, 140, 296, 345, 400, 505, 607, 840, 941]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 5 : [15, 107, 114, 133, 192, 276, 382, 570, 616, 636, 641, 642, 677, 819, 841, 862, 864, 875, 879, 956, 978, 999]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 7 : [30, 87, 131, 160, 172, 177, 183, 198, 205, 368, 396, 402, 452, 511, 556, 559, 594, 604, 615, 638, 724, 727, 776, 853, 918, 919, 949]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 8 : [11, 54, 62, 216, 257, 320, 439, 478, 593, 620, 667, 751, 927]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 11 : [10, 14, 18, 32, 33, 55, 58, 69, 70, 79, 83, 93, 94, 102, 125, 148, 173, 211, 214, 227, 232, 260, 268, 283, 303, 367, 392, 401, 421, 432, 440, 465, 475, 486, 491, 494, 512, 544, 567, 573, 629, 648, 651, 654, 662, 668, 669, 686, 707, 715, 731, 745, 766, 788, 789, 805, 829, 836, 857, 859, 865, 876, 940, 959, 981, 988]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 12 : [242, 355, 449, 644, 904, 915]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 13 : [63, 66, 77, 134, 209, 252, 294, 315, 335, 342, 403, 446, 468, 472, 535, 542, 549, 602, 609, 703, 719, 761, 801, 888, 890, 948, 984]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 14 : [60, 68, 88, 179, 256, 291, 293, 323, 346, 394, 415, 424, 458, 504, 507, 519, 527, 540, 585, 590, 741, 783, 791, 897]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 15 : [7, 113, 151, 222, 238, 249, 250, 251, 269, 270, 333, 362, 366, 481, 524, 560, 695, 820, 822, 834, 896, 907, 917, 971]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 16 : [159, 220, 240, 307, 639, 661, 743]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 20 : [76, 120, 219, 338, 350, 631, 643, 975]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 23 : [163, 165, 223, 235, 750, 846, 902, 944]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 25 : [162, 186, 224, 422, 612, 992]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 26 : [36, 207, 341, 374, 384, 484, 658, 714, 722, 729, 737, 797]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 29 : [2, 34, 38, 48, 74, 124, 127, 138, 180, 201, 261, 278, 281, 290, 334, 337, 360, 410, 416, 419, 426, 450, 483, 548, 563, 617, 660, 671, 675, 710, 754, 771, 807, 815, 868, 932, 933, 947, 967, 991]
+[INFO ] 2024-05-16 12:15:24.305 [main] Result - 32 : [27, 73, 90, 92, 115, 130, 149, 168, 202, 234, 244, 259, 331, 340, 348, 372, 385, 404, 407, 425, 435, 443, 516, 526, 539, 545, 618, 633, 635, 693, 711, 843, 844, 924, 965, 994]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 33 : [26, 64, 85, 112, 187, 236, 263, 343, 430, 506, 533, 601, 605, 637, 659, 793, 796, 824]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 34 : [5, 53, 91, 188, 195, 241, 284, 287, 388, 390, 399, 441, 680, 794, 826, 854, 893, 912, 945]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 36 : [197, 225, 246, 265, 332, 397, 500, 518, 587, 588, 599, 728, 753, 809, 961]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 37 : [72, 84, 203, 237, 317, 329, 364, 369, 428, 438, 448, 451, 614, 627, 672, 762, 881, 900, 968]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 38 : [89, 154, 200, 300, 305, 308, 310, 354, 508, 534, 586, 628, 898, 934, 950]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 39 : [1, 555, 645, 709, 792, 813, 863, 974, 983]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 40 : [6, 21, 117, 129, 145, 164, 245, 454, 464, 521, 546, 580, 592, 673, 736, 808, 831, 936, 953, 980, 990]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 42 : [204, 229, 365, 427, 502, 528, 558, 561, 568, 577, 683, 689, 696, 730, 744, 760, 901, 935]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 44 : [176, 233, 299, 304, 322, 352, 389, 433, 752]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 46 : [41, 155, 217, 264, 289, 358, 409, 485, 498, 581, 625, 632, 653, 763, 782, 798, 827, 860, 867, 880, 921, 925]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 47 : [116, 285, 351, 487, 501, 851, 869, 908, 942]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 53 : [37, 39, 97, 105, 141, 152, 288, 314, 391, 398, 503, 584, 589, 708, 717, 756, 767, 774, 775, 800, 816, 870, 874, 964, 972]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 57 : [353, 414, 420, 444]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 58 : [40, 67, 100, 110, 171, 199, 262, 267, 272, 295, 309, 321, 330, 356, 357, 395, 466, 476, 480, 493, 509, 520, 541, 543, 564, 569, 575, 576, 595, 606, 647, 656, 665, 674, 682, 704, 833, 842, 858, 872, 882, 885, 899, 976]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 62 : [20, 35, 42, 45, 75, 99, 118, 128, 137, 170, 182, 253, 266, 273, 277, 286, 319, 361, 375, 405, 417, 442, 445, 447, 455, 460, 470, 477, 482, 488, 490, 517, 532, 553, 554, 571, 572, 591, 600, 681, 685, 723, 733, 747, 768, 781, 785, 786, 812, 817, 830, 848, 850, 866, 871, 886, 892, 914, 977, 982]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 65 : [13, 144, 210, 215, 228, 231, 363, 379, 383, 479, 849, 883, 928, 954]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 69 : [28, 80, 104, 136, 181, 226, 254, 380, 459, 467, 510, 536, 582, 596, 621, 655, 713, 758, 790, 855, 894, 951, 960]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 70 : [61, 279, 302, 437, 492, 795, 895, 916, 931, 962]
+[INFO ] 2024-05-16 12:15:24.306 [main] Result - 71 : [9, 17, 574, 903, 913, 937, 985]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 72 : [8, 49, 121, 123, 175, 194, 298, 327, 408, 431, 461, 463, 473, 513, 515, 565, 566, 597, 622, 649, 663, 718, 740, 780, 784, 802, 803, 825, 884, 946, 952]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 73 : [0, 12, 65, 106, 167, 191, 213, 230, 255, 324, 406, 453, 529, 531, 537, 550, 613, 676, 684, 691, 692, 757, 799, 804, 810, 835, 889, 891, 955, 969, 979, 989]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 74 : [31, 206, 282, 311, 650, 694, 734]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 81 : [3, 29, 96, 274, 275, 370, 386, 557, 603, 619, 630, 687, 700, 742, 777, 847, 861, 910, 929]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 82 : [44, 86, 126, 196, 208, 292, 318, 462, 471, 496, 497, 499, 688, 712, 779, 911]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 83 : [16, 71, 111, 135, 153, 156, 166, 169, 178, 312, 316, 456, 514, 608, 666, 702, 706, 725, 735, 759, 770, 778, 837, 939, 958]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 85 : [46, 52, 82, 142, 174, 212, 243, 325, 336, 344, 349, 381, 418, 538, 562, 579, 598, 634, 640, 646, 657, 664, 679, 690, 698, 705, 738, 749, 769, 856, 909, 926, 938]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 88 : [78, 122, 147, 161, 184, 189, 190, 313, 423, 611, 697, 764, 906, 973, 995]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 89 : [19, 24, 50, 98, 103, 108, 150, 280, 347, 359, 387, 413, 522, 530, 552, 623, 624, 626, 701, 720, 721, 787, 823, 828, 887, 943, 963, 970, 987, 993, 997, 998]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 93 : [57, 158, 328, 411, 495, 523, 678, 716, 755, 832, 839]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 95 : [146, 193, 297, 378, 551, 773, 811, 852, 873, 930, 966]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 96 : [23, 47, 51, 56, 81, 95, 101, 119, 139, 247, 248, 271, 377, 393, 412, 434, 436, 469, 474, 670, 739, 746, 821, 838, 845, 877, 878, 905, 922, 986]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 97 : [4, 25, 185, 306, 457, 578, 610, 652, 923, 957, 996]
+[INFO ] 2024-05-16 12:15:24.307 [main] Result - 98 : [109, 132, 157, 218, 239, 326, 339, 371, 489, 525, 583, 699, 726, 748, 765, 772, 806, 814, 818]
+[INFO ] 2024-05-16 12:15:24.307 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:15:24.307 [main] UFLP_Test - Instance: capb1, Optimal value: 1.2979071582E7, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:15:24.307 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:15:49.513 [main] UFLP_Test - RVNS: Value= 26440829.776, Gap = 13461758.194, Average Execution Time = 25177, Acceptable = true
+[INFO ] 2024-05-16 12:16:14.829 [main] UFLP_Test - RVNS: Value= 21995701.427, Gap = 9016629.845, Average Execution Time = 25283, Acceptable = true
+[INFO ] 2024-05-16 12:16:40.532 [main] UFLP_Test - RVNS: Value= 22242010.379, Gap = 9262938.797, Average Execution Time = 25682, Acceptable = true
+[INFO ] 2024-05-16 12:17:04.202 [main] UFLP_Test - RVNS: Value= 24499397.286, Gap = 11520325.704, Average Execution Time = 23649, Acceptable = true
+[INFO ] 2024-05-16 12:17:26.974 [main] UFLP_Test - RVNS: Value= 19216438.217, Gap = 6237366.635, Average Execution Time = 22750, Acceptable = true
+[INFO ] 2024-05-16 12:17:52.513 [main] UFLP_Test - RVNS: Value= 21929960.038, Gap = 8950888.456, Average Execution Time = 25518, Acceptable = true
+[INFO ] 2024-05-16 12:18:16.494 [main] UFLP_Test - RVNS: Value= 24672547.831, Gap = 11693476.249, Average Execution Time = 23954, Acceptable = true
+[INFO ] 2024-05-16 12:18:38.697 [main] UFLP_Test - RVNS: Value= 25196298.188, Gap = 12217226.606, Average Execution Time = 22181, Acceptable = true
+[INFO ] 2024-05-16 12:19:01.666 [main] UFLP_Test - RVNS: Value= 26263019.267, Gap = 13283947.685, Average Execution Time = 22948, Acceptable = true
+[INFO ] 2024-05-16 12:19:26.218 [main] UFLP_Test - RVNS: Value= 21384631.434, Gap = 8405559.852, Average Execution Time = 24529, Acceptable = true
+[INFO ] 2024-05-16 12:19:26.218 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:19:26.218 [main] UFLP_Test - RVNS: Best Value= 19216438.217, Gap = 6237366.635, Average Execution Time = 24167, Acceptable = true
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - Set of open facilities: [0, 1, 9, 11, 12, 16, 18, 19, 23, 24, 27, 28, 29, 31, 32, 34, 36, 37, 38, 40, 41, 42, 43, 47, 49, 50, 51, 52, 53, 54, 57, 61, 63, 65, 66, 68, 72, 73, 74, 76, 77, 85, 88, 89, 91, 92, 93, 94, 95, 97]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 0 : [206, 331, 335, 528, 531, 589, 607, 616, 676, 897, 974]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 1 : [6, 113, 135, 145, 188, 250, 290, 297, 313, 320, 337, 405, 407, 622, 639, 683, 722, 723, 757, 795, 816, 825, 828, 939, 989, 998]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 9 : [21, 78, 120, 127, 707, 744, 817, 894, 906]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 11 : [14, 28, 44, 69, 81, 168, 183, 218, 224, 263, 308, 420, 430, 431, 505, 517, 552, 612, 617, 686, 694, 716, 734, 761, 852, 909, 929, 940]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 12 : [1, 59, 96, 104, 105, 108, 124, 126, 156, 175, 198, 199, 207, 221, 327, 333, 440, 478, 520, 591, 620, 626, 673, 704, 721, 724, 751, 759, 821, 830, 866, 867, 883, 911, 912, 928, 933, 944, 972]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 16 : [8, 31, 122, 165, 205, 226, 384, 424, 439, 547, 556, 568, 660, 770, 837, 913, 922, 932, 960, 980]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 18 : [247, 303, 638, 964]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 19 : [27, 34, 66, 227, 397, 536, 559, 642, 659, 684, 727, 787]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 23 : [220, 223, 269, 307, 351, 354, 445, 454, 471, 485, 491, 516, 561, 597, 650, 678, 692, 807, 895, 920, 938, 943]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 24 : [98, 112, 130, 155, 215, 222, 253, 270, 291, 326, 342, 364, 381, 432, 449, 463, 501, 526, 551, 590, 624, 666, 747, 771, 789, 827, 901, 976, 983]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 27 : [70, 111, 280, 293, 319, 348, 363, 388, 446, 451, 456, 461, 483, 540, 595, 688, 713, 777, 782, 790, 812, 840, 857, 858, 874, 934, 969]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 28 : [5, 43, 176, 357, 404, 411, 538, 634, 640, 687, 766, 855, 887, 915, 956, 965]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 29 : [0, 23, 152, 187, 260, 385, 436, 614, 641, 729]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 31 : [12, 42, 46, 65, 154, 161, 225, 268, 296, 341, 361, 480, 506, 530, 546, 557, 573, 583, 585, 656, 698, 872, 889, 914, 941, 993]
+[INFO ] 2024-05-16 12:19:26.218 [main] Result - 32 : [4, 92, 283, 330, 338, 382, 409, 412, 462, 555, 558, 586, 598, 601, 645, 849, 955, 977, 984]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 34 : [19, 178, 190, 202, 232, 249, 281, 334, 375, 423, 427, 448, 605, 700, 779, 924]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 36 : [2, 32, 266, 306, 322, 339, 444, 450, 535, 644, 838, 839, 951]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 37 : [54, 56, 62, 63, 90, 107, 123, 128, 149, 163, 192, 193, 194, 216, 238, 315, 336, 349, 350, 358, 362, 369, 386, 419, 429, 473, 500, 548, 570, 581, 610, 657, 680, 728, 738, 773, 808, 818, 819, 836, 853, 854, 891, 896, 935, 937, 945, 953, 991]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 38 : [58, 73, 150, 201, 325, 365, 403, 422, 504, 541, 545, 571, 637, 649, 665, 693, 709, 718, 745, 749, 775, 786, 822, 876, 881, 918, 978, 985, 997, 999]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 40 : [17, 173, 189, 234, 275, 276, 394, 401, 453, 739, 772, 988, 996]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 41 : [240, 243, 359, 435, 481, 502, 532, 564, 618, 632, 689, 697, 746, 850, 871, 873, 966, 979]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 42 : [447, 604, 737, 995]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 43 : [37, 76, 140, 184, 200, 367, 489, 523, 643, 672, 781, 804, 823, 842, 851, 879, 902, 975]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 47 : [13, 50, 61, 94, 110, 117, 121, 125, 136, 146, 148, 170, 182, 332, 352, 376, 426, 508, 521, 566, 587, 608, 646, 654, 699, 742, 753, 776, 862, 877, 981]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 49 : [18, 45, 47, 49, 85, 179, 312, 346, 356, 368, 414, 415, 442, 484, 490, 503, 511, 534, 550, 554, 611, 669, 682, 685, 750, 783, 793, 814, 900, 952]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 50 : [82, 214, 265, 271, 274, 418, 458, 539, 565, 655, 712, 717, 868, 875]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 51 : [328, 392, 421, 497, 588, 741, 762]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 52 : [36, 72, 91, 93, 106, 139, 141, 181, 237, 242, 343, 395, 408, 437, 474, 518, 537, 576, 648, 681, 711, 784, 802, 860, 961]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 53 : [29, 38, 48, 51, 103, 134, 169, 191, 196, 197, 204, 299, 316, 353, 441, 475, 487, 498, 562, 578, 625, 627, 636, 652, 702, 803, 841, 845, 926, 963]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 54 : [267, 477, 527, 533, 630, 801, 810, 864, 916]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 57 : [212, 289, 309, 469, 510, 553, 594, 671, 731, 733, 774, 791, 824, 844, 947, 962]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 61 : [133, 157, 323, 344, 470, 493, 529, 664, 725, 754, 767, 811, 832, 865, 930]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 63 : [20, 53, 79, 174, 186, 211, 248, 252, 264, 279, 301, 360, 366, 396, 425, 467, 486, 488, 492, 494, 512, 513, 563, 635, 647, 651, 653, 667, 670, 715, 720, 743, 780, 794, 833, 843, 847, 905, 936, 946, 949, 958, 959]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 65 : [10, 11, 115, 172, 294, 355, 371, 452, 600, 619, 748, 756, 815, 878, 884, 910, 986]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 66 : [195, 209, 239, 259, 273, 329, 507, 542, 661, 726, 799, 870, 973]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 68 : [9, 80, 147, 153, 185, 203, 236, 241, 257, 304, 318, 378, 387, 410, 459, 519, 522, 579, 800, 805, 848, 904, 994]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 72 : [39, 68, 116, 129, 142, 144, 158, 162, 167, 171, 213, 244, 245, 246, 251, 284, 288, 295, 298, 300, 317, 324, 347, 370, 374, 416, 476, 479, 509, 525, 549, 580, 582, 593, 602, 603, 679, 701, 732, 735, 797, 859, 863, 869, 890, 925, 957]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 73 : [26, 97, 137, 229, 256, 310, 372, 373, 393, 499, 515, 584, 621, 628, 629, 633, 691, 710, 730, 826, 968]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 74 : [41, 102, 208, 230, 464, 466, 560, 592, 778, 796, 806, 893, 908, 917, 992]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 76 : [7, 64, 109, 132, 143, 217, 233, 428, 433, 524, 575, 606, 662, 856, 950, 970]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 77 : [3, 25, 83, 87, 180, 321, 340, 544, 574, 764, 788, 888]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 85 : [55, 99, 210, 377, 613, 674, 705, 714, 886]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 88 : [22, 24, 30, 35, 74, 95, 114, 131, 138, 151, 166, 231, 254, 262, 277, 285, 311, 345, 390, 400, 413, 417, 599, 623, 663, 675, 677, 695, 706, 708, 740, 755, 758, 831, 834, 846, 899, 921, 942, 967, 982]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 89 : [15, 40, 52, 75, 77, 89, 100, 101, 159, 164, 235, 255, 261, 305, 380, 398, 406, 472, 482, 496, 514, 609, 615, 631, 690, 719, 736, 763, 765, 768, 813, 820, 829, 835, 861, 880, 885, 898, 907, 919, 927, 948, 954]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 91 : [88, 258, 495, 658, 668, 752]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 92 : [119, 302, 455, 468, 569, 785, 809]
+[INFO ] 2024-05-16 12:19:26.219 [main] Result - 93 : [57, 71, 286, 314, 389, 438, 457, 596, 769, 798, 923, 971]
+[INFO ] 2024-05-16 12:19:26.220 [main] Result - 94 : [84, 399, 465, 572, 760, 882, 931]
+[INFO ] 2024-05-16 12:19:26.220 [main] Result - 95 : [177, 272, 292, 383, 402, 567, 577]
+[INFO ] 2024-05-16 12:19:26.220 [main] Result - 97 : [16, 33, 60, 67, 86, 118, 160, 219, 228, 278, 282, 287, 379, 391, 434, 443, 460, 543, 696, 703, 792, 892, 903, 987, 990]
+[INFO ] 2024-05-16 12:19:26.220 [main] UFLP_Test - ==========================================================================================================
+
+[INFO ] 2024-05-16 12:19:26.220 [main] UFLP_Test - Instance: capc1, Optimal value: 1.1505594329E7, maxIterations: 10000, kMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-16 12:19:26.220 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:19:49.684 [main] UFLP_Test - RVNS: Value= 18333738.853, Gap = 6828144.524, Average Execution Time = 23432, Acceptable = true
+[INFO ] 2024-05-16 12:20:12.906 [main] UFLP_Test - RVNS: Value= 19851364.662, Gap = 8345770.333, Average Execution Time = 23202, Acceptable = true
+[INFO ] 2024-05-16 12:20:41.649 [main] UFLP_Test - RVNS: Value= 17798597.553, Gap = 6293003.224, Average Execution Time = 28721, Acceptable = true
+[INFO ] 2024-05-16 12:21:10.888 [main] UFLP_Test - RVNS: Value= 17733455.766, Gap = 6227861.437, Average Execution Time = 29216, Acceptable = true
+[INFO ] 2024-05-16 12:21:35.977 [main] UFLP_Test - RVNS: Value= 16482918.280, Gap = 4977323.951, Average Execution Time = 25067, Acceptable = true
+[INFO ] 2024-05-16 12:22:01.666 [main] UFLP_Test - RVNS: Value= 20496826.984, Gap = 8991232.655, Average Execution Time = 25665, Acceptable = true
+[INFO ] 2024-05-16 12:22:27.996 [main] UFLP_Test - RVNS: Value= 18361748.659, Gap = 6856154.330, Average Execution Time = 26309, Acceptable = true
+[INFO ] 2024-05-16 12:22:55.126 [main] UFLP_Test - RVNS: Value= 17666999.640, Gap = 6161405.311, Average Execution Time = 27107, Acceptable = true
+[INFO ] 2024-05-16 12:23:25.575 [main] UFLP_Test - RVNS: Value= 18277864.209, Gap = 6772269.880, Average Execution Time = 30432, Acceptable = true
+[INFO ] 2024-05-16 12:23:48.252 [main] UFLP_Test - RVNS: Value= 16742841.590, Gap = 5237247.261, Average Execution Time = 22656, Acceptable = true
+[INFO ] 2024-05-16 12:23:48.252 [main] UFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-16 12:23:48.252 [main] UFLP_Test - RVNS: Best Value= 16482918.280, Gap = 4977323.951, Average Execution Time = 26180, Acceptable = true
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - Set of open facilities: [0, 1, 2, 4, 8, 10, 11, 12, 14, 16, 17, 18, 19, 21, 22, 25, 28, 29, 30, 31, 33, 36, 41, 42, 43, 46, 47, 48, 53, 54, 55, 56, 57, 59, 60, 63, 69, 70, 73, 75, 76, 80, 81, 82, 84, 85, 86, 88, 89, 93, 95, 97, 98, 99]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 0 : [3, 72, 237, 238, 241, 257, 265, 318, 336, 419, 420, 426, 463, 477, 553, 588, 595, 618, 699, 804, 808, 820, 909, 962, 964]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 1 : [14, 38, 42, 52, 54, 115, 116, 142, 143, 240, 303, 307, 358, 392, 534, 541, 577, 619, 658, 686, 695, 707, 718, 728, 798, 841, 918, 987]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 2 : [97, 121, 156, 161, 163, 166, 333, 485, 500, 547, 590, 600, 612, 885, 887]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 4 : [15, 66, 124, 157, 224, 256, 285, 476, 523, 544, 632, 740, 835, 857, 949, 966]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 8 : [106, 259, 284, 304, 352, 365, 372, 402, 405, 413, 458, 482, 593, 605, 641, 648, 766, 892, 915, 933, 979]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 10 : [159, 183, 247, 252, 253, 329, 467, 515, 540, 562, 583, 629, 633, 696, 731, 732, 737, 769, 786, 829, 893, 942, 999]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 11 : [25, 83, 95, 150, 410, 422, 518, 660, 692, 752, 900]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 12 : [0, 280, 346, 355, 381, 388, 431, 456, 613, 790, 801, 818, 921, 985]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 14 : [6, 20, 178, 203, 219, 378, 517, 535, 549, 568, 688, 776, 779, 822, 853, 907]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 16 : [39, 57, 64, 70, 76, 91, 192, 207, 221, 249, 270, 289, 360, 404, 436, 440, 459, 480, 504, 512, 525, 536, 543, 556, 569, 630, 838, 859, 872, 959, 989]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 17 : [100, 110, 140, 181, 190, 196, 248, 269, 427, 464, 484, 623, 716, 763, 773, 990]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 18 : [5, 94, 108, 117, 212, 298, 312, 340, 356, 508, 558, 564, 652, 662, 780, 994, 995]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 19 : [2, 27, 28, 65, 99, 145, 167, 231, 266, 279, 299, 331, 343, 348, 366, 369, 373, 377, 489, 494, 503, 510, 567, 635, 670, 674, 703, 709, 719, 730, 742, 750, 759, 764, 803, 823, 826, 831, 852, 880, 927, 957]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 21 : [16, 19, 31, 80, 109, 162, 182, 214, 250, 288, 325, 326, 382, 418, 423, 443, 445, 452, 528, 621, 667, 680, 720, 749, 805, 807, 836, 842, 881, 910, 912, 938, 974]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 22 : [29, 74, 125, 126, 139, 173, 278, 350, 421, 465, 559, 566, 616, 761, 813, 830]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 25 : [24, 51, 62, 105, 111, 177, 210, 295, 439, 513, 614, 675, 760, 844, 854, 948, 980]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 28 : [63, 98, 132, 202, 239, 245, 425, 428, 582, 628, 661, 671, 714, 744, 753, 781, 783]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 29 : [10, 93, 131, 165, 168, 169, 189, 200, 251, 345, 451, 495, 507, 527, 645, 734, 787, 828, 862, 899, 967]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 30 : [61, 316, 384, 390, 408, 474, 693, 843, 904, 954, 965, 973]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 31 : [55, 84, 112, 175, 195, 236, 263, 294, 301, 385, 400, 401, 516, 572, 626, 636, 710, 850, 851, 861, 866, 901, 913, 924]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 33 : [35, 206, 324, 398, 505, 736, 960, 970, 975]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 36 : [146, 222, 290, 341, 416, 441, 469, 550, 574, 657, 812, 873, 877, 932]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 41 : [59, 114, 226, 233, 399, 473, 493, 580, 594, 650, 681, 784, 863]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 42 : [13, 41, 79, 102, 127, 148, 179, 209, 254, 272, 310, 344, 351, 389, 450, 499, 522, 537, 627, 634, 664, 669, 751, 782, 906]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 43 : [122, 149, 153, 271, 391, 407, 424, 491, 520, 554, 591, 625, 793, 882]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 46 : [26, 137, 176, 462, 654, 883]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 47 : [96, 243, 354, 442, 617, 651, 684, 694, 765, 788, 856, 996]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 48 : [71, 78, 85, 87, 90, 160, 180, 188, 228, 262, 286, 308, 313, 357, 374, 394, 403, 417, 509, 576, 586, 611, 672, 678, 723, 727, 733, 809, 821, 832, 849, 864, 894, 937]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 53 : [48, 69, 77, 101, 144, 151, 223, 268, 293, 409, 446, 555, 643, 860, 926, 961, 991]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 54 : [282, 319, 725, 879, 993]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 55 : [4, 32, 82, 335, 375, 380, 395, 447, 597, 647, 668, 741, 777, 902, 944]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 56 : [11, 18, 45, 92, 199, 255, 315, 330, 349, 406, 429, 486, 488, 497, 539, 542, 561, 573, 601, 637, 676, 847, 886, 914]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 57 : [1, 327, 353, 466, 487, 941, 986]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 59 : [232, 364, 578, 581, 604, 610, 620, 711, 739, 795, 806, 817, 897, 947]
+[INFO ] 2024-05-16 12:23:48.253 [main] Result - 60 : [7, 50, 198, 213, 218, 220, 334, 338, 453, 483, 502, 506, 570, 624, 639, 655, 717, 738, 767, 778, 824, 845, 848, 871, 875, 930, 936, 963, 981]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 63 : [46, 107, 130, 155, 170, 194, 227, 261, 274, 296, 323, 370, 412, 432, 438, 479, 496, 529, 533, 565, 575, 666, 677, 691, 700, 724, 726, 746, 931, 946, 968, 972]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 69 : [58, 60, 68, 411, 448, 461, 511, 685, 689, 755, 815, 878, 943, 997]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 70 : [73, 81, 215, 367, 379, 396, 430, 514, 598, 758, 785, 799, 827, 839, 869, 922, 977]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 73 : [17, 43, 119, 133, 158, 172, 201, 205, 260, 275, 287, 291, 362, 470, 524, 587, 631, 653, 665, 690, 762, 774, 775, 792, 794, 796, 846, 855, 888, 950, 952]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 75 : [12, 30, 67, 135, 136, 174, 204, 216, 230, 242, 258, 297, 302, 306, 320, 321, 339, 387, 397, 444, 455, 478, 530, 557, 579, 608, 609, 622, 646, 679, 683, 729, 748, 756, 768, 770, 797, 867, 923, 928, 951, 998]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 76 : [89, 185, 217, 472, 791, 802, 834, 891, 929, 983]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 80 : [152, 187, 193, 234, 273, 415, 599, 649, 673, 754, 833, 884, 908, 925, 945, 956]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 81 : [8, 113, 191, 208, 235, 328, 368, 414, 468, 606, 615, 819, 840, 870, 889, 890, 939, 940, 969]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 82 : [138, 147, 229, 314, 347, 371, 460, 481, 498, 526, 596, 607, 642, 656, 687, 705, 771, 898, 905, 920]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 84 : [22, 23, 33, 40, 47, 56, 86, 104, 120, 123, 141, 164, 186, 225, 244, 246, 264, 267, 300, 309, 322, 361, 386, 434, 435, 454, 471, 521, 531, 548, 552, 571, 589, 638, 659, 697, 701, 704, 743, 789, 800, 810, 814, 868, 895, 896, 917, 953, 955, 988]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 85 : [21, 36, 37, 103, 128, 277, 332, 337, 433, 492, 538, 644, 706, 735, 745, 919, 982, 992]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 86 : [292, 363, 592, 747, 916, 976]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 88 : [154, 311, 359, 393, 475, 519, 563, 712, 715, 816]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 89 : [197, 317, 457, 713, 772, 865, 984]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 93 : [134, 449]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 95 : [283, 305, 383, 532, 546, 560, 603, 698, 757, 903, 934, 935, 978]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 97 : [9, 44, 118, 129, 171, 281, 490, 682, 702, 825, 837, 874, 876, 911, 958]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 98 : [34, 49, 53, 75, 88, 342, 376, 437, 501, 585, 640, 663, 708, 722, 811, 971]
+[INFO ] 2024-05-16 12:23:48.254 [main] Result - 99 : [184, 211, 276, 545, 551, 584, 602, 721, 858]
+[INFO ] 2024-05-16 12:23:48.254 [main] UFLP_Test - ==========================================================================================================
+

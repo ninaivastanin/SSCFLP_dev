@@ -1,0 +1,40 @@
+Data file   Optimal solution value
+cap61       932615.8
+cap62       977799.4
+cap63       1014100
+cap64       1053197
+cap71       932615.7
+cap72       977799.4
+cap73       1010641
+cap74       1034977
+cap91       796648.4
+cap92       858109.3
+cap93       900760.1
+cap94       950608.4
+cap101      796648.4
+cap102      854704.2
+cap103      893782.1
+cap104      928941.8
+cap121      793439.6
+cap122      854900.5
+cap123      898266.1
+cap124      950608.4
+cap131      793439.6
+cap132      851495.3
+cap133      893076.7
+cap134      928941.8
+capa        19241056.93 (capacity 8000)
+            18438329.78 (capacity 10000)
+            17765201.95 (capacity 12000)
+            17160612.23 (capacity 14000)
+capb        13657464.23 (capacity 5000)
+            13362529.34 (capacity 6000)
+            13199213.19 (capacity 7000)
+            13083203.74 (capacity 8000)
+capc        11647410.50 (capacity 5000)
+            11570437.68 (capacity 5750)
+            11519169.78 (capacity 6500)
+            11505861.86 (capacity 7250)
+
+Note here that different machines may give slightly different
+results to those given above due to rounding errors.

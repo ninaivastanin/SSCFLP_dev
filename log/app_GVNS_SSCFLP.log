@@ -1,0 +1,540 @@
+[INFO ] 2024-05-27 11:07:46.009 [main] SSCFLP_Test - Instance: cap61, Optimal value: 932615.8, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:07:46.011 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:07:46.732 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 694, Acceptable = true
+[INFO ] 2024-05-27 11:07:47.319 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 585, Acceptable = true
+[INFO ] 2024-05-27 11:07:47.874 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 555, Acceptable = true
+[INFO ] 2024-05-27 11:07:49.110 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 1236, Acceptable = true
+[INFO ] 2024-05-27 11:07:50.165 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 1053, Acceptable = true
+[INFO ] 2024-05-27 11:07:50.618 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 453, Acceptable = true
+[INFO ] 2024-05-27 11:07:51.085 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 466, Acceptable = true
+[INFO ] 2024-05-27 11:07:51.534 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 448, Acceptable = true
+[INFO ] 2024-05-27 11:07:52.013 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 479, Acceptable = true
+[INFO ] 2024-05-27 11:07:52.477 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 463, Acceptable = true
+[INFO ] 2024-05-27 11:07:52.478 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:07:52.478 [main] SSCFLP_Test - GVNS: Best Value= 932615.750, Gap = 0.050, Average Execution Time = 643, Acceptable = true
+[INFO ] 2024-05-27 11:07:52.478 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:07:52.478 [main] SSCFLP_Test - Instance: cap62, Optimal value: 977799.4, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:07:52.478 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:07:52.924 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 434, Acceptable = true
+[INFO ] 2024-05-27 11:07:53.374 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 450, Acceptable = true
+[INFO ] 2024-05-27 11:07:53.809 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 434, Acceptable = true
+[INFO ] 2024-05-27 11:07:54.232 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 423, Acceptable = true
+[INFO ] 2024-05-27 11:07:54.657 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 424, Acceptable = true
+[INFO ] 2024-05-27 11:07:55.086 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 429, Acceptable = true
+[INFO ] 2024-05-27 11:07:55.505 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 419, Acceptable = true
+[INFO ] 2024-05-27 11:07:55.919 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 414, Acceptable = true
+[INFO ] 2024-05-27 11:07:56.346 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 426, Acceptable = true
+[INFO ] 2024-05-27 11:07:56.770 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 423, Acceptable = true
+[INFO ] 2024-05-27 11:07:56.770 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:07:56.770 [main] SSCFLP_Test - GVNS: Best Value= 977799.400, Gap = 0.000, Average Execution Time = 427, Acceptable = true
+[INFO ] 2024-05-27 11:07:56.770 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:07:56.770 [main] SSCFLP_Test - Instance: cap63, Optimal value: 1014100.0, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:07:56.770 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:07:57.223 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 427, Acceptable = true
+[INFO ] 2024-05-27 11:07:57.614 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 390, Acceptable = true
+[INFO ] 2024-05-27 11:07:58.028 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 414, Acceptable = true
+[INFO ] 2024-05-27 11:07:58.426 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 397, Acceptable = true
+[INFO ] 2024-05-27 11:07:58.815 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 389, Acceptable = true
+[INFO ] 2024-05-27 11:07:59.216 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 400, Acceptable = true
+[INFO ] 2024-05-27 11:07:59.603 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 387, Acceptable = true
+[INFO ] 2024-05-27 11:08:00.004 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 400, Acceptable = true
+[INFO ] 2024-05-27 11:08:00.425 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 420, Acceptable = true
+[INFO ] 2024-05-27 11:08:00.817 [main] SSCFLP_Test - GVNS: Value= 1014099.613, Gap = 0.387, Average Execution Time = 392, Acceptable = true
+[INFO ] 2024-05-27 11:08:00.817 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:00.817 [main] SSCFLP_Test - GVNS: Best Value= 1014099.613, Gap = 0.387, Average Execution Time = 401, Acceptable = true
+[INFO ] 2024-05-27 11:08:00.817 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:00.817 [main] SSCFLP_Test - Instance: cap64, Optimal value: 1053197.0, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:08:00.817 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:01.181 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 328, Acceptable = true
+[INFO ] 2024-05-27 11:08:01.496 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 315, Acceptable = true
+[INFO ] 2024-05-27 11:08:01.812 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 316, Acceptable = true
+[INFO ] 2024-05-27 11:08:02.152 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 339, Acceptable = true
+[INFO ] 2024-05-27 11:08:02.461 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 309, Acceptable = true
+[INFO ] 2024-05-27 11:08:02.775 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 313, Acceptable = true
+[INFO ] 2024-05-27 11:08:03.093 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 317, Acceptable = true
+[INFO ] 2024-05-27 11:08:03.421 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 327, Acceptable = true
+[INFO ] 2024-05-27 11:08:03.742 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 321, Acceptable = true
+[INFO ] 2024-05-27 11:08:04.058 [main] SSCFLP_Test - GVNS: Value= 1055801.238, Gap = 2604.238, Average Execution Time = 316, Acceptable = true
+[INFO ] 2024-05-27 11:08:04.058 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:04.058 [main] SSCFLP_Test - GVNS: Best Value= 1055801.238, Gap = 2604.238, Average Execution Time = 320, Acceptable = true
+[INFO ] 2024-05-27 11:08:04.058 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:04.058 [main] SSCFLP_Test - Instance: cap71, Optimal value: 932615.7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:08:04.058 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:04.535 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 451, Acceptable = true
+[INFO ] 2024-05-27 11:08:04.979 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 444, Acceptable = true
+[INFO ] 2024-05-27 11:08:05.444 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 464, Acceptable = true
+[INFO ] 2024-05-27 11:08:05.901 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 457, Acceptable = true
+[INFO ] 2024-05-27 11:08:06.357 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 454, Acceptable = true
+[INFO ] 2024-05-27 11:08:06.815 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 458, Acceptable = true
+[INFO ] 2024-05-27 11:08:07.278 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 463, Acceptable = true
+[INFO ] 2024-05-27 11:08:07.722 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 444, Acceptable = true
+[INFO ] 2024-05-27 11:08:08.189 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 467, Acceptable = true
+[INFO ] 2024-05-27 11:08:08.660 [main] SSCFLP_Test - GVNS: Value= 932615.750, Gap = 0.050, Average Execution Time = 470, Acceptable = true
+[INFO ] 2024-05-27 11:08:08.660 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:08.660 [main] SSCFLP_Test - GVNS: Best Value= 932615.750, Gap = 0.050, Average Execution Time = 457, Acceptable = true
+[INFO ] 2024-05-27 11:08:08.660 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:08.660 [main] SSCFLP_Test - Instance: cap72, Optimal value: 977799.4, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:08:08.660 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:09.084 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 399, Acceptable = true
+[INFO ] 2024-05-27 11:08:09.491 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 407, Acceptable = true
+[INFO ] 2024-05-27 11:08:09.894 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 403, Acceptable = true
+[INFO ] 2024-05-27 11:08:10.299 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 404, Acceptable = true
+[INFO ] 2024-05-27 11:08:10.721 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 422, Acceptable = true
+[INFO ] 2024-05-27 11:08:11.128 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 406, Acceptable = true
+[INFO ] 2024-05-27 11:08:11.524 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 395, Acceptable = true
+[INFO ] 2024-05-27 11:08:11.950 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 426, Acceptable = true
+[INFO ] 2024-05-27 11:08:12.367 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 417, Acceptable = true
+[INFO ] 2024-05-27 11:08:12.785 [main] SSCFLP_Test - GVNS: Value= 977799.400, Gap = 0.000, Average Execution Time = 418, Acceptable = true
+[INFO ] 2024-05-27 11:08:12.785 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:12.785 [main] SSCFLP_Test - GVNS: Best Value= 977799.400, Gap = 0.000, Average Execution Time = 409, Acceptable = true
+[INFO ] 2024-05-27 11:08:12.785 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:12.785 [main] SSCFLP_Test - Instance: cap73, Optimal value: 1010641.0, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:08:12.785 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:13.169 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 358, Acceptable = true
+[INFO ] 2024-05-27 11:08:13.587 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 418, Acceptable = true
+[INFO ] 2024-05-27 11:08:14.033 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 446, Acceptable = true
+[INFO ] 2024-05-27 11:08:14.409 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 374, Acceptable = true
+[INFO ] 2024-05-27 11:08:14.812 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 403, Acceptable = true
+[INFO ] 2024-05-27 11:08:15.130 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 318, Acceptable = true
+[INFO ] 2024-05-27 11:08:15.491 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 360, Acceptable = true
+[INFO ] 2024-05-27 11:08:15.910 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 418, Acceptable = true
+[INFO ] 2024-05-27 11:08:16.259 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 348, Acceptable = true
+[INFO ] 2024-05-27 11:08:16.669 [main] SSCFLP_Test - GVNS: Value= 1010641.450, Gap = 0.450, Average Execution Time = 410, Acceptable = true
+[INFO ] 2024-05-27 11:08:16.669 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:16.669 [main] SSCFLP_Test - GVNS: Best Value= 1010641.450, Gap = 0.450, Average Execution Time = 385, Acceptable = true
+[INFO ] 2024-05-27 11:08:16.669 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:16.669 [main] SSCFLP_Test - Instance: cap74, Optimal value: 1034977.0, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:08:16.669 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:16.987 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 304, Acceptable = true
+[INFO ] 2024-05-27 11:08:17.275 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 288, Acceptable = true
+[INFO ] 2024-05-27 11:08:17.572 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 297, Acceptable = true
+[INFO ] 2024-05-27 11:08:17.868 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 296, Acceptable = true
+[INFO ] 2024-05-27 11:08:18.165 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 296, Acceptable = true
+[INFO ] 2024-05-27 11:08:18.443 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 277, Acceptable = true
+[INFO ] 2024-05-27 11:08:18.740 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 297, Acceptable = true
+[INFO ] 2024-05-27 11:08:19.053 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 312, Acceptable = true
+[INFO ] 2024-05-27 11:08:19.360 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 306, Acceptable = true
+[INFO ] 2024-05-27 11:08:19.657 [main] SSCFLP_Test - GVNS: Value= 1034976.975, Gap = 0.025, Average Execution Time = 296, Acceptable = true
+[INFO ] 2024-05-27 11:08:19.657 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:19.658 [main] SSCFLP_Test - GVNS: Best Value= 1034976.975, Gap = 0.025, Average Execution Time = 296, Acceptable = true
+[INFO ] 2024-05-27 11:08:19.658 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:19.658 [main] SSCFLP_Test - Instance: cap91, Optimal value: 796648.4, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:08:19.658 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:23.177 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3494, Acceptable = true
+[INFO ] 2024-05-27 11:08:26.552 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3375, Acceptable = true
+[INFO ] 2024-05-27 11:08:30.566 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 4014, Acceptable = true
+[INFO ] 2024-05-27 11:08:35.027 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 4461, Acceptable = true
+[INFO ] 2024-05-27 11:08:38.524 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3497, Acceptable = true
+[INFO ] 2024-05-27 11:08:41.995 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3470, Acceptable = true
+[INFO ] 2024-05-27 11:08:44.699 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 2703, Acceptable = true
+[INFO ] 2024-05-27 11:08:48.137 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3438, Acceptable = true
+[INFO ] 2024-05-27 11:08:51.387 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3250, Acceptable = true
+[INFO ] 2024-05-27 11:08:55.121 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3733, Acceptable = true
+[INFO ] 2024-05-27 11:08:55.121 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:55.121 [main] SSCFLP_Test - GVNS: Best Value= 796648.437, Gap = 0.037, Average Execution Time = 3543, Acceptable = true
+[INFO ] 2024-05-27 11:08:55.121 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:55.121 [main] SSCFLP_Test - Instance: cap92, Optimal value: 858109.3, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:08:55.121 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:08:58.664 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 3520, Acceptable = true
+[INFO ] 2024-05-27 11:09:01.176 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 2511, Acceptable = true
+[INFO ] 2024-05-27 11:09:04.496 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 3320, Acceptable = true
+[INFO ] 2024-05-27 11:09:08.062 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 3566, Acceptable = true
+[INFO ] 2024-05-27 11:09:10.923 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 2861, Acceptable = true
+[INFO ] 2024-05-27 11:09:14.147 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 3223, Acceptable = true
+[INFO ] 2024-05-27 11:09:16.621 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 2473, Acceptable = true
+[INFO ] 2024-05-27 11:09:19.154 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 2532, Acceptable = true
+[INFO ] 2024-05-27 11:09:22.696 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 3542, Acceptable = true
+[INFO ] 2024-05-27 11:09:25.311 [main] SSCFLP_Test - GVNS: Value= 858109.325, Gap = 0.025, Average Execution Time = 2615, Acceptable = true
+[INFO ] 2024-05-27 11:09:25.311 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:09:25.311 [main] SSCFLP_Test - GVNS: Best Value= 858109.325, Gap = 0.025, Average Execution Time = 3016, Acceptable = true
+[INFO ] 2024-05-27 11:09:25.311 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:09:25.311 [main] SSCFLP_Test - Instance: cap93, Optimal value: 900760.1, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:09:25.311 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:09:27.909 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 2575, Acceptable = true
+[INFO ] 2024-05-27 11:09:30.781 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 2872, Acceptable = true
+[INFO ] 2024-05-27 11:09:34.325 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 3544, Acceptable = true
+[INFO ] 2024-05-27 11:09:37.898 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 3572, Acceptable = true
+[INFO ] 2024-05-27 11:09:41.671 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 3772, Acceptable = true
+[INFO ] 2024-05-27 11:09:44.787 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 3116, Acceptable = true
+[INFO ] 2024-05-27 11:09:47.166 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 2379, Acceptable = true
+[INFO ] 2024-05-27 11:09:50.420 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 3253, Acceptable = true
+[INFO ] 2024-05-27 11:09:53.301 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 2881, Acceptable = true
+[INFO ] 2024-05-27 11:09:56.607 [main] SSCFLP_Test - GVNS: Value= 900760.113, Gap = 0.013, Average Execution Time = 3305, Acceptable = true
+[INFO ] 2024-05-27 11:09:56.607 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:09:56.607 [main] SSCFLP_Test - GVNS: Best Value= 900760.113, Gap = 0.013, Average Execution Time = 3126, Acceptable = true
+[INFO ] 2024-05-27 11:09:56.607 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:09:56.607 [main] SSCFLP_Test - Instance: cap94, Optimal value: 950608.4, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:09:56.607 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:09:58.377 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 1748, Acceptable = true
+[INFO ] 2024-05-27 11:10:00.087 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 1707, Acceptable = true
+[INFO ] 2024-05-27 11:10:01.983 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 1896, Acceptable = true
+[INFO ] 2024-05-27 11:10:03.781 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 1798, Acceptable = true
+[INFO ] 2024-05-27 11:10:05.640 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 1859, Acceptable = true
+[INFO ] 2024-05-27 11:10:07.412 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 1771, Acceptable = true
+[INFO ] 2024-05-27 11:10:09.471 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 2058, Acceptable = true
+[INFO ] 2024-05-27 11:10:11.242 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 1771, Acceptable = true
+[INFO ] 2024-05-27 11:10:13.178 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 1935, Acceptable = true
+[INFO ] 2024-05-27 11:10:14.931 [main] SSCFLP_Test - GVNS: Value= 951832.700, Gap = 1224.300, Average Execution Time = 1752, Acceptable = true
+[INFO ] 2024-05-27 11:10:14.931 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:10:14.931 [main] SSCFLP_Test - GVNS: Best Value= 951832.700, Gap = 1224.300, Average Execution Time = 1829, Acceptable = true
+[INFO ] 2024-05-27 11:10:14.931 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:10:14.931 [main] SSCFLP_Test - Instance: cap101, Optimal value: 796648.4, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:10:14.931 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:10:19.130 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 4159, Acceptable = true
+[INFO ] 2024-05-27 11:10:22.093 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 2962, Acceptable = true
+[INFO ] 2024-05-27 11:10:26.002 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3909, Acceptable = true
+[INFO ] 2024-05-27 11:10:29.188 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3186, Acceptable = true
+[INFO ] 2024-05-27 11:10:33.723 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 4534, Acceptable = true
+[INFO ] 2024-05-27 11:10:37.708 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3985, Acceptable = true
+[INFO ] 2024-05-27 11:10:41.281 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3571, Acceptable = true
+[INFO ] 2024-05-27 11:10:45.447 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 4166, Acceptable = true
+[INFO ] 2024-05-27 11:10:48.357 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 2909, Acceptable = true
+[INFO ] 2024-05-27 11:10:51.611 [main] SSCFLP_Test - GVNS: Value= 796648.437, Gap = 0.037, Average Execution Time = 3253, Acceptable = true
+[INFO ] 2024-05-27 11:10:51.611 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:10:51.612 [main] SSCFLP_Test - GVNS: Best Value= 796648.437, Gap = 0.037, Average Execution Time = 3663, Acceptable = true
+[INFO ] 2024-05-27 11:10:51.612 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:10:51.612 [main] SSCFLP_Test - Instance: cap102, Optimal value: 854704.2, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:10:51.612 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:10:53.775 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2148, Acceptable = true
+[INFO ] 2024-05-27 11:10:55.937 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2162, Acceptable = true
+[INFO ] 2024-05-27 11:10:58.061 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2123, Acceptable = true
+[INFO ] 2024-05-27 11:11:00.257 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2195, Acceptable = true
+[INFO ] 2024-05-27 11:11:02.418 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2161, Acceptable = true
+[INFO ] 2024-05-27 11:11:04.569 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2150, Acceptable = true
+[INFO ] 2024-05-27 11:11:06.750 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2181, Acceptable = true
+[INFO ] 2024-05-27 11:11:08.850 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2100, Acceptable = true
+[INFO ] 2024-05-27 11:11:10.930 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2079, Acceptable = true
+[INFO ] 2024-05-27 11:11:13.120 [main] SSCFLP_Test - GVNS: Value= 854704.200, Gap = 0.000, Average Execution Time = 2190, Acceptable = true
+[INFO ] 2024-05-27 11:11:13.120 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:11:13.120 [main] SSCFLP_Test - GVNS: Best Value= 854704.200, Gap = 0.000, Average Execution Time = 2148, Acceptable = true
+[INFO ] 2024-05-27 11:11:13.120 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:11:13.120 [main] SSCFLP_Test - Instance: cap103, Optimal value: 893782.1, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:11:13.120 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:11:16.513 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 3368, Acceptable = true
+[INFO ] 2024-05-27 11:11:19.474 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 2960, Acceptable = true
+[INFO ] 2024-05-27 11:11:22.259 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 2784, Acceptable = true
+[INFO ] 2024-05-27 11:11:24.581 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 2322, Acceptable = true
+[INFO ] 2024-05-27 11:11:27.543 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 2961, Acceptable = true
+[INFO ] 2024-05-27 11:11:30.424 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 2880, Acceptable = true
+[INFO ] 2024-05-27 11:11:33.577 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 3153, Acceptable = true
+[INFO ] 2024-05-27 11:11:36.005 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 2428, Acceptable = true
+[INFO ] 2024-05-27 11:11:39.062 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 3057, Acceptable = true
+[INFO ] 2024-05-27 11:11:41.522 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 0.013, Average Execution Time = 2460, Acceptable = true
+[INFO ] 2024-05-27 11:11:41.522 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:11:41.522 [main] SSCFLP_Test - GVNS: Best Value= 893782.113, Gap = 0.013, Average Execution Time = 2837, Acceptable = true
+[INFO ] 2024-05-27 11:11:41.522 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:11:41.523 [main] SSCFLP_Test - Instance: cap104, Optimal value: 928941.8, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:11:41.523 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:11:42.939 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1407, Acceptable = true
+[INFO ] 2024-05-27 11:11:44.269 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1329, Acceptable = true
+[INFO ] 2024-05-27 11:11:45.584 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1315, Acceptable = true
+[INFO ] 2024-05-27 11:11:47.001 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1414, Acceptable = true
+[INFO ] 2024-05-27 11:11:48.348 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1347, Acceptable = true
+[INFO ] 2024-05-27 11:11:49.677 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1329, Acceptable = true
+[INFO ] 2024-05-27 11:11:51.009 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1332, Acceptable = true
+[INFO ] 2024-05-27 11:11:52.370 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1360, Acceptable = true
+[INFO ] 2024-05-27 11:11:53.749 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1379, Acceptable = true
+[INFO ] 2024-05-27 11:11:55.129 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 1380, Acceptable = true
+[INFO ] 2024-05-27 11:11:55.129 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:11:55.129 [main] SSCFLP_Test - GVNS: Best Value= 928941.750, Gap = 0.050, Average Execution Time = 1359, Acceptable = true
+[INFO ] 2024-05-27 11:11:55.129 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:11:55.129 [main] SSCFLP_Test - Instance: cap121, Optimal value: 793439.6, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:11:55.129 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:12:23.282 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 28129, Acceptable = true
+[INFO ] 2024-05-27 11:12:50.649 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 27366, Acceptable = true
+[INFO ] 2024-05-27 11:13:17.094 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 26444, Acceptable = true
+[INFO ] 2024-05-27 11:13:43.590 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 26495, Acceptable = true
+[INFO ] 2024-05-27 11:14:14.289 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 30697, Acceptable = true
+[INFO ] 2024-05-27 11:14:48.788 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 34499, Acceptable = true
+[INFO ] 2024-05-27 11:15:24.332 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 35544, Acceptable = true
+[INFO ] 2024-05-27 11:15:51.890 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 27558, Acceptable = true
+[INFO ] 2024-05-27 11:16:19.119 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 27228, Acceptable = true
+[INFO ] 2024-05-27 11:16:57.242 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 38123, Acceptable = true
+[INFO ] 2024-05-27 11:16:57.242 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:16:57.242 [main] SSCFLP_Test - GVNS: Best Value= 793439.563, Gap = 0.037, Average Execution Time = 30208, Acceptable = true
+[INFO ] 2024-05-27 11:16:57.242 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:16:57.242 [main] SSCFLP_Test - Instance: cap122, Optimal value: 854900.5, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:16:57.242 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:17:22.354 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 25086, Acceptable = true
+[INFO ] 2024-05-27 11:17:51.106 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 28752, Acceptable = true
+[INFO ] 2024-05-27 11:18:24.283 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 33176, Acceptable = true
+[INFO ] 2024-05-27 11:18:47.173 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 22890, Acceptable = true
+[INFO ] 2024-05-27 11:19:10.982 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 23809, Acceptable = true
+[INFO ] 2024-05-27 11:19:34.664 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 23681, Acceptable = true
+[INFO ] 2024-05-27 11:20:02.999 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 28335, Acceptable = true
+[INFO ] 2024-05-27 11:20:43.191 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 40190, Acceptable = true
+[INFO ] 2024-05-27 11:21:09.051 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 25860, Acceptable = true
+[INFO ] 2024-05-27 11:21:36.248 [main] SSCFLP_Test - GVNS: Value= 854900.450, Gap = 0.050, Average Execution Time = 27197, Acceptable = true
+[INFO ] 2024-05-27 11:21:36.248 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:21:36.248 [main] SSCFLP_Test - GVNS: Best Value= 854900.450, Gap = 0.050, Average Execution Time = 27897, Acceptable = true
+[INFO ] 2024-05-27 11:21:36.248 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:21:36.248 [main] SSCFLP_Test - Instance: cap123, Optimal value: 898266.1, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:21:36.249 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:21:58.949 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 22677, Acceptable = true
+[INFO ] 2024-05-27 11:22:28.042 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 29093, Acceptable = true
+[INFO ] 2024-05-27 11:22:48.122 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 20079, Acceptable = true
+[INFO ] 2024-05-27 11:23:10.160 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 22037, Acceptable = true
+[INFO ] 2024-05-27 11:23:32.865 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 22705, Acceptable = true
+[INFO ] 2024-05-27 11:23:53.902 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 21036, Acceptable = true
+[INFO ] 2024-05-27 11:24:18.643 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 24741, Acceptable = true
+[INFO ] 2024-05-27 11:24:39.783 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 21140, Acceptable = true
+[INFO ] 2024-05-27 11:25:01.533 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 21749, Acceptable = true
+[INFO ] 2024-05-27 11:25:24.304 [main] SSCFLP_Test - GVNS: Value= 898266.075, Gap = 0.025, Average Execution Time = 22770, Acceptable = true
+[INFO ] 2024-05-27 11:25:24.304 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:25:24.304 [main] SSCFLP_Test - GVNS: Best Value= 898266.075, Gap = 0.025, Average Execution Time = 22802, Acceptable = true
+[INFO ] 2024-05-27 11:25:24.304 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:25:24.304 [main] SSCFLP_Test - Instance: cap124, Optimal value: 950608.4, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:25:24.304 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:25:41.852 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 17523, Acceptable = true
+[INFO ] 2024-05-27 11:25:59.470 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 17618, Acceptable = true
+[INFO ] 2024-05-27 11:26:17.211 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 17741, Acceptable = true
+[INFO ] 2024-05-27 11:26:34.789 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 17577, Acceptable = true
+[INFO ] 2024-05-27 11:26:52.869 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 18078, Acceptable = true
+[INFO ] 2024-05-27 11:27:10.337 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 17462, Acceptable = true
+[INFO ] 2024-05-27 11:27:28.143 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 17806, Acceptable = true
+[INFO ] 2024-05-27 11:27:45.782 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 17638, Acceptable = true
+[INFO ] 2024-05-27 11:28:02.929 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 17147, Acceptable = true
+[INFO ] 2024-05-27 11:28:21.285 [main] SSCFLP_Test - GVNS: Value= 950644.438, Gap = 36.038, Average Execution Time = 18356, Acceptable = true
+[INFO ] 2024-05-27 11:28:21.285 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:28:21.285 [main] SSCFLP_Test - GVNS: Best Value= 950644.438, Gap = 36.038, Average Execution Time = 17694, Acceptable = true
+[INFO ] 2024-05-27 11:28:21.285 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:28:21.285 [main] SSCFLP_Test - Instance: cap131, Optimal value: 793439.6, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:28:21.285 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:28:49.585 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 28273, Acceptable = true
+[INFO ] 2024-05-27 11:29:29.043 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 39458, Acceptable = true
+[INFO ] 2024-05-27 11:30:07.637 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 38593, Acceptable = true
+[INFO ] 2024-05-27 11:30:47.170 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 39533, Acceptable = true
+[INFO ] 2024-05-27 11:31:14.972 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 27801, Acceptable = true
+[INFO ] 2024-05-27 11:32:02.569 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 47597, Acceptable = true
+[INFO ] 2024-05-27 11:32:31.039 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 28469, Acceptable = true
+[INFO ] 2024-05-27 11:33:12.072 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 41032, Acceptable = true
+[INFO ] 2024-05-27 11:33:47.877 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 35804, Acceptable = true
+[INFO ] 2024-05-27 11:34:18.243 [main] SSCFLP_Test - GVNS: Value= 793439.563, Gap = 0.037, Average Execution Time = 30366, Acceptable = true
+[INFO ] 2024-05-27 11:34:18.243 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:34:18.243 [main] SSCFLP_Test - GVNS: Best Value= 793439.563, Gap = 0.037, Average Execution Time = 35692, Acceptable = true
+[INFO ] 2024-05-27 11:34:18.243 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:34:18.243 [main] SSCFLP_Test - Instance: cap132, Optimal value: 851495.3, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:34:18.243 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:34:40.654 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 22386, Acceptable = true
+[INFO ] 2024-05-27 11:35:03.721 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 23067, Acceptable = true
+[INFO ] 2024-05-27 11:35:26.085 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 22364, Acceptable = true
+[INFO ] 2024-05-27 11:35:49.150 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 23064, Acceptable = true
+[INFO ] 2024-05-27 11:36:12.076 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 22926, Acceptable = true
+[INFO ] 2024-05-27 11:36:34.566 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 22489, Acceptable = true
+[INFO ] 2024-05-27 11:36:56.569 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 22002, Acceptable = true
+[INFO ] 2024-05-27 11:37:18.827 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 22258, Acceptable = true
+[INFO ] 2024-05-27 11:37:40.643 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 21816, Acceptable = true
+[INFO ] 2024-05-27 11:38:02.619 [main] SSCFLP_Test - GVNS: Value= 851495.325, Gap = 0.025, Average Execution Time = 21975, Acceptable = true
+[INFO ] 2024-05-27 11:38:02.619 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:38:02.619 [main] SSCFLP_Test - GVNS: Best Value= 851495.325, Gap = 0.025, Average Execution Time = 22434, Acceptable = true
+[INFO ] 2024-05-27 11:38:02.619 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:38:02.619 [main] SSCFLP_Test - Instance: cap133, Optimal value: 893076.7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:38:02.619 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:38:21.250 [main] SSCFLP_Test - GVNS: Value= 893076.713, Gap = 0.013, Average Execution Time = 18595, Acceptable = true
+[INFO ] 2024-05-27 11:38:48.924 [main] SSCFLP_Test - GVNS: Value= 893076.713, Gap = 0.013, Average Execution Time = 27673, Acceptable = true
+[INFO ] 2024-05-27 11:39:10.496 [main] SSCFLP_Test - GVNS: Value= 893076.713, Gap = 0.013, Average Execution Time = 21571, Acceptable = true
+[INFO ] 2024-05-27 11:39:30.892 [main] SSCFLP_Test - GVNS: Value= 893076.713, Gap = 0.013, Average Execution Time = 20395, Acceptable = true
+[INFO ] 2024-05-27 11:39:53.058 [main] SSCFLP_Test - GVNS: Value= 893782.113, Gap = 705.413, Average Execution Time = 22166, Acceptable = true
+[INFO ] 2024-05-27 11:40:12.774 [main] SSCFLP_Test - GVNS: Value= 893076.713, Gap = 0.013, Average Execution Time = 19716, Acceptable = true
+[INFO ] 2024-05-27 11:40:36.157 [main] SSCFLP_Test - GVNS: Value= 893076.713, Gap = 0.013, Average Execution Time = 23383, Acceptable = true
+[INFO ] 2024-05-27 11:40:55.240 [main] SSCFLP_Test - GVNS: Value= 893076.713, Gap = 0.013, Average Execution Time = 19082, Acceptable = true
+[INFO ] 2024-05-27 11:41:14.714 [main] SSCFLP_Test - GVNS: Value= 893076.713, Gap = 0.013, Average Execution Time = 19473, Acceptable = true
+[INFO ] 2024-05-27 11:41:32.495 [main] SSCFLP_Test - GVNS: Value= 893076.713, Gap = 0.013, Average Execution Time = 17780, Acceptable = true
+[INFO ] 2024-05-27 11:41:32.495 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:41:32.495 [main] SSCFLP_Test - GVNS: Best Value= 893076.713, Gap = 0.013, Average Execution Time = 20983, Acceptable = true
+[INFO ] 2024-05-27 11:41:32.495 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:41:32.495 [main] SSCFLP_Test - Instance: cap134, Optimal value: 928941.8, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:41:32.495 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:41:46.111 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 13590, Acceptable = true
+[INFO ] 2024-05-27 11:41:59.481 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 13369, Acceptable = true
+[INFO ] 2024-05-27 11:42:12.934 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 13432, Acceptable = true
+[INFO ] 2024-05-27 11:42:26.940 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 14006, Acceptable = true
+[INFO ] 2024-05-27 11:42:40.549 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 13609, Acceptable = true
+[INFO ] 2024-05-27 11:42:54.246 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 13697, Acceptable = true
+[INFO ] 2024-05-27 11:43:07.637 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 13390, Acceptable = true
+[INFO ] 2024-05-27 11:43:21.375 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 13738, Acceptable = true
+[INFO ] 2024-05-27 11:43:35.231 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 13856, Acceptable = true
+[INFO ] 2024-05-27 11:43:49.139 [main] SSCFLP_Test - GVNS: Value= 928941.750, Gap = 0.050, Average Execution Time = 13907, Acceptable = true
+[INFO ] 2024-05-27 11:43:49.139 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:43:49.139 [main] SSCFLP_Test - GVNS: Best Value= 928941.750, Gap = 0.050, Average Execution Time = 13659, Acceptable = true
+[INFO ] 2024-05-27 11:43:49.139 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 11:43:49.139 [main] SSCFLP_Test - Instance: capa1, Optimal value: 1.924105693E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-27 11:43:49.139 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-27 13:36:03.991 [main] SSCFLP_Test - GVNS: Value= 19366242.190, Gap = 125185.260, Average Execution Time = 6734830, Acceptable = true
+[INFO ] 2024-05-27 16:16:26.785 [main] SSCFLP_Test - GVNS: Value= 19461813.675, Gap = 220756.745, Average Execution Time = 9622767, Acceptable = true
+[INFO ] 2024-05-27 17:57:59.471 [main] SSCFLP_Test - GVNS: Value= 19366242.190, Gap = 125185.260, Average Execution Time = 6092674, Acceptable = true
+[INFO ] 2024-05-27 21:46:42.446 [main] SSCFLP_Test - GVNS: Value= 19461813.675, Gap = 220756.745, Average Execution Time = 13722944, Acceptable = true
+[INFO ] 2024-05-27 23:15:36.343 [main] SSCFLP_Test - GVNS: Value= 19366242.190, Gap = 125185.260, Average Execution Time = 5333870, Acceptable = true
+[INFO ] 2024-05-28 10:33:08.984 [main] SSCFLP_Test - GVNS: Value= 19518627.804, Gap = 277570.874, Average Execution Time = 40652627, Acceptable = true
+[INFO ] 2024-05-28 12:23:06.159 [main] SSCFLP_Test - GVNS: Value= 19366242.190, Gap = 125185.260, Average Execution Time = 6597160, Acceptable = true
+[INFO ] 2024-05-28 14:50:14.908 [main] SSCFLP_Test - GVNS: Value= 19366242.190, Gap = 125185.260, Average Execution Time = 8828735, Acceptable = true
+[INFO ] 2024-05-28 16:32:56.835 [main] SSCFLP_Test - GVNS: Value= 19366242.190, Gap = 125185.260, Average Execution Time = 6161915, Acceptable = true
+[INFO ] 2024-05-28 20:06:03.220 [main] SSCFLP_Test - GVNS: Value= 19366242.190, Gap = 125185.260, Average Execution Time = 12786359, Acceptable = true
+[INFO ] 2024-05-28 20:06:03.220 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-28 20:06:03.220 [main] SSCFLP_Test - GVNS: Best Value= 19366242.190, Gap = 125185.260, Average Execution Time = 11653388, Acceptable = true
+[INFO ] 2024-05-28 20:06:03.220 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-28 20:06:03.221 [main] SSCFLP_Test - Instance: capa2, Optimal value: 1.843832978E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-28 20:06:03.221 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-29 00:06:21.821 [main] SSCFLP_Test - GVNS: Value= 18552077.399, Gap = 113747.619, Average Execution Time = 14418583, Acceptable = true
+[INFO ] 2024-05-29 06:22:01.123 [main] SSCFLP_Test - GVNS: Value= 18597491.867, Gap = 159162.087, Average Execution Time = 22539289, Acceptable = true
+[INFO ] 2024-05-29 09:25:27.989 [main] SSCFLP_Test - GVNS: Value= 18597491.867, Gap = 159162.087, Average Execution Time = 11006838, Acceptable = true
+[INFO ] 2024-05-29 11:10:26.406 [main] SSCFLP_Test - GVNS: Value= 18521749.039, Gap = 83419.259, Average Execution Time = 6298401, Acceptable = true
+[INFO ] 2024-05-29 13:03:35.306 [main] SSCFLP_Test - GVNS: Value= 18521749.039, Gap = 83419.259, Average Execution Time = 6788880, Acceptable = true
+[INFO ] 2024-05-29 14:53:20.460 [main] SSCFLP_Test - GVNS: Value= 18521749.039, Gap = 83419.259, Average Execution Time = 6585139, Acceptable = true
+[INFO ] 2024-05-29 16:41:16.248 [main] SSCFLP_Test - GVNS: Value= 18597491.867, Gap = 159162.087, Average Execution Time = 6475756, Acceptable = true
+[INFO ] 2024-05-29 20:22:51.406 [main] SSCFLP_Test - GVNS: Value= 18521749.039, Gap = 83419.259, Average Execution Time = 13295142, Acceptable = true
+[INFO ] 2024-05-29 22:40:45.285 [main] SSCFLP_Test - GVNS: Value= 18521749.039, Gap = 83419.259, Average Execution Time = 8273866, Acceptable = true
+[INFO ] 2024-05-30 01:13:03.192 [main] SSCFLP_Test - GVNS: Value= 18521749.039, Gap = 83419.259, Average Execution Time = 9137891, Acceptable = true
+[INFO ] 2024-05-30 01:13:03.192 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-30 01:13:03.192 [main] SSCFLP_Test - GVNS: Best Value= 18521749.039, Gap = 83419.259, Average Execution Time = 10481978, Acceptable = true
+[INFO ] 2024-05-30 01:13:03.192 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-30 01:13:03.192 [main] SSCFLP_Test - Instance: capa3, Optimal value: 1.776520195E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-30 01:13:03.192 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-30 07:35:53.048 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 22969826, Acceptable = true
+[INFO ] 2024-05-30 10:57:33.445 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 12100381, Acceptable = true
+[INFO ] 2024-05-30 12:25:44.457 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 5290992, Acceptable = true
+[INFO ] 2024-05-30 14:42:37.232 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 8212762, Acceptable = true
+[INFO ] 2024-05-30 16:24:04.216 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 6086966, Acceptable = true
+[INFO ] 2024-05-30 20:45:33.089 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 15688859, Acceptable = true
+[INFO ] 2024-05-30 23:56:44.098 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 11470984, Acceptable = true
+[INFO ] 2024-05-31 11:28:36.150 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 41512030, Acceptable = true
+[INFO ] 2024-05-31 13:06:38.139 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 5881974, Acceptable = true
+[INFO ] 2024-05-31 14:28:31.510 [main] SSCFLP_Test - GVNS: Value= 17765201.949, Gap = 0.001, Average Execution Time = 4913355, Acceptable = true
+[INFO ] 2024-05-31 14:28:31.511 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-31 14:28:31.511 [main] SSCFLP_Test - GVNS: Best Value= 17765201.949, Gap = 0.001, Average Execution Time = 13412812, Acceptable = true
+[INFO ] 2024-05-31 14:28:31.511 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-31 14:28:31.511 [main] SSCFLP_Test - Instance: capa4, Optimal value: 1.716061223E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-05-31 14:28:31.511 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-05-31 16:53:55.557 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 8724015, Acceptable = true
+[INFO ] 2024-05-31 19:08:39.180 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 8083595, Acceptable = true
+[INFO ] 2024-05-31 22:35:52.915 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 12433720, Acceptable = true
+[INFO ] 2024-05-31 23:44:53.806 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 4140878, Acceptable = true
+[INFO ] 2024-06-02 22:09:11.809 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 167057991, Acceptable = true
+[INFO ] 2024-06-03 11:31:24.826 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 48132988, Acceptable = true
+[INFO ] 2024-06-03 13:11:59.854 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 6034999, Acceptable = true
+[INFO ] 2024-06-03 14:39:31.939 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 5252072, Acceptable = true
+[INFO ] 2024-06-03 18:09:38.713 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 12606757, Acceptable = true
+[INFO ] 2024-06-03 22:10:56.577 [main] SSCFLP_Test - GVNS: Value= 17271693.016, Gap = 111080.786, Average Execution Time = 14477821, Acceptable = true
+[INFO ] 2024-06-03 22:10:56.577 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-03 22:10:56.577 [main] SSCFLP_Test - GVNS: Best Value= 17271693.016, Gap = 111080.786, Average Execution Time = 28694483, Acceptable = true
+[INFO ] 2024-06-03 22:10:56.577 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-03 22:10:56.577 [main] SSCFLP_Test - Instance: capb1, Optimal value: 1.365746423E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-06-03 22:10:56.577 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-04 00:06:54.852 [main] SSCFLP_Test - GVNS: Value= 13797393.447, Gap = 139929.217, Average Execution Time = 6958235, Acceptable = true
+[INFO ] 2024-06-04 05:11:33.071 [main] SSCFLP_Test - GVNS: Value= 13814790.236, Gap = 157326.006, Average Execution Time = 18278207, Acceptable = true
+[INFO ] 2024-06-04 10:01:36.864 [main] SSCFLP_Test - GVNS: Value= 13797393.447, Gap = 139929.217, Average Execution Time = 17403781, Acceptable = true
+[INFO ] 2024-06-04 13:02:44.520 [main] SSCFLP_Test - GVNS: Value= 13797393.447, Gap = 139929.217, Average Execution Time = 10867642, Acceptable = true
+[INFO ] 2024-06-04 15:24:22.737 [main] SSCFLP_Test - GVNS: Value= 13797393.447, Gap = 139929.217, Average Execution Time = 8498202, Acceptable = true
+[INFO ] 2024-06-04 17:18:08.220 [main] SSCFLP_Test - GVNS: Value= 13797393.447, Gap = 139929.217, Average Execution Time = 6825469, Acceptable = true
+[INFO ] 2024-06-04 19:58:43.302 [main] SSCFLP_Test - GVNS: Value= 13797393.447, Gap = 139929.217, Average Execution Time = 9635056, Acceptable = true
+[INFO ] 2024-06-04 23:18:42.122 [main] SSCFLP_Test - GVNS: Value= 13899221.658, Gap = 241757.428, Average Execution Time = 11998807, Acceptable = true
+[INFO ] 2024-06-05 10:13:48.355 [main] SSCFLP_Test - GVNS: Value= 13797393.447, Gap = 139929.217, Average Execution Time = 39306207, Acceptable = true
+[INFO ] 2024-06-05 12:12:09.446 [main] SSCFLP_Test - GVNS: Value= 13797393.447, Gap = 139929.217, Average Execution Time = 7101062, Acceptable = true
+[INFO ] 2024-06-05 12:12:09.446 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-05 12:12:09.446 [main] SSCFLP_Test - GVNS: Best Value= 13797393.447, Gap = 139929.217, Average Execution Time = 13687266, Acceptable = true
+[INFO ] 2024-06-05 12:12:09.446 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-05 12:12:09.446 [main] SSCFLP_Test - Instance: capb2, Optimal value: 1.336252934E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-06-05 12:12:09.446 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-05 14:53:39.995 [main] SSCFLP_Test - GVNS: Value= 13426874.115, Gap = 64344.775, Average Execution Time = 9690524, Acceptable = true
+[INFO ] 2024-06-05 17:24:41.375 [main] SSCFLP_Test - GVNS: Value= 13426874.115, Gap = 64344.775, Average Execution Time = 9061366, Acceptable = true
+[INFO ] 2024-06-05 22:02:44.396 [main] SSCFLP_Test - GVNS: Value= 13426874.115, Gap = 64344.775, Average Execution Time = 16683007, Acceptable = true
+[INFO ] 2024-06-06 10:11:09.810 [main] SSCFLP_Test - GVNS: Value= 13426874.115, Gap = 64344.775, Average Execution Time = 43705383, Acceptable = true
+[INFO ] 2024-06-06 12:48:05.783 [main] SSCFLP_Test - GVNS: Value= 13426874.115, Gap = 64344.775, Average Execution Time = 9415960, Acceptable = true
+[INFO ] 2024-06-06 16:47:53.074 [main] SSCFLP_Test - GVNS: Value= 13426874.115, Gap = 64344.775, Average Execution Time = 14387278, Acceptable = true
+[INFO ] 2024-06-07 11:10:32.825 [main] SSCFLP_Test - GVNS: Value= 13426874.115, Gap = 64344.775, Average Execution Time = 66159727, Acceptable = true
+[INFO ] 2024-06-07 14:24:12.344 [main] SSCFLP_Test - GVNS: Value= 13655945.902, Gap = 293416.562, Average Execution Time = 11619492, Acceptable = true
+[INFO ] 2024-06-07 16:48:10.477 [main] SSCFLP_Test - GVNS: Value= 13426874.115, Gap = 64344.775, Average Execution Time = 8638105, Acceptable = true
+[INFO ] 2024-06-07 20:43:44.747 [main] SSCFLP_Test - GVNS: Value= 13426874.115, Gap = 64344.775, Average Execution Time = 14134242, Acceptable = true
+[INFO ] 2024-06-07 20:43:44.747 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-07 20:43:44.747 [main] SSCFLP_Test - GVNS: Best Value= 13426874.115, Gap = 64344.775, Average Execution Time = 20349508, Acceptable = true
+[INFO ] 2024-06-07 20:43:44.747 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-07 20:43:44.747 [main] SSCFLP_Test - Instance: capb3, Optimal value: 1.319921319E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-06-07 20:43:44.747 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-08 00:17:44.044 [main] SSCFLP_Test - GVNS: Value= 13343223.249, Gap = 144010.059, Average Execution Time = 12839272, Acceptable = true
+[INFO ] 2024-06-08 09:47:43.207 [main] SSCFLP_Test - GVNS: Value= 13342061.421, Gap = 142848.231, Average Execution Time = 34199148, Acceptable = true
+[INFO ] 2024-06-08 22:02:12.268 [main] SSCFLP_Test - GVNS: Value= 13342061.421, Gap = 142848.231, Average Execution Time = 44069047, Acceptable = true
+[INFO ] 2024-06-09 02:17:14.200 [main] SSCFLP_Test - GVNS: Value= 13345977.562, Gap = 146764.372, Average Execution Time = 15301902, Acceptable = true
+[INFO ] 2024-06-09 10:38:11.647 [main] SSCFLP_Test - GVNS: Value= 13342061.421, Gap = 142848.231, Average Execution Time = 30057421, Acceptable = true
+[INFO ] 2024-06-09 14:36:30.850 [main] SSCFLP_Test - GVNS: Value= 13345977.562, Gap = 146764.372, Average Execution Time = 14299175, Acceptable = true
+[INFO ] 2024-06-09 20:23:00.157 [main] SSCFLP_Test - GVNS: Value= 13342061.421, Gap = 142848.231, Average Execution Time = 20789278, Acceptable = true
+[INFO ] 2024-06-10 00:22:50.648 [main] SSCFLP_Test - GVNS: Value= 13344431.644, Gap = 145218.454, Average Execution Time = 14390457, Acceptable = true
+[INFO ] 2024-06-10 10:27:40.303 [main] SSCFLP_Test - GVNS: Value= 13343223.249, Gap = 144010.059, Average Execution Time = 36289640, Acceptable = true
+[INFO ] 2024-06-10 13:43:41.348 [main] SSCFLP_Test - GVNS: Value= 13342061.421, Gap = 142848.231, Average Execution Time = 11761033, Acceptable = true
+[INFO ] 2024-06-10 13:43:41.349 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-10 13:43:41.349 [main] SSCFLP_Test - GVNS: Best Value= 13342061.421, Gap = 142848.231, Average Execution Time = 23399637, Acceptable = true
+[INFO ] 2024-06-10 13:43:41.349 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-10 13:43:41.349 [main] SSCFLP_Test - Instance: capb4, Optimal value: 1.308320374E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-06-10 13:43:41.349 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-10 16:22:22.381 [main] SSCFLP_Test - GVNS: Value= 13187440.491, Gap = 104236.751, Average Execution Time = 9520997, Acceptable = true
+[INFO ] 2024-06-10 21:35:35.045 [main] SSCFLP_Test - GVNS: Value= 13202945.529, Gap = 119741.789, Average Execution Time = 18792631, Acceptable = true
+[INFO ] 2024-06-10 23:41:56.016 [main] SSCFLP_Test - GVNS: Value= 13187440.491, Gap = 104236.751, Average Execution Time = 7580958, Acceptable = true
+[INFO ] 2024-06-11 10:34:57.283 [main] SSCFLP_Test - GVNS: Value= 13187440.491, Gap = 104236.751, Average Execution Time = 39181238, Acceptable = true
+[INFO ] 2024-06-11 13:20:48.103 [main] SSCFLP_Test - GVNS: Value= 13187440.491, Gap = 104236.751, Average Execution Time = 9950792, Acceptable = true
+[INFO ] 2024-06-11 16:00:16.480 [main] SSCFLP_Test - GVNS: Value= 13202945.529, Gap = 119741.789, Average Execution Time = 9568363, Acceptable = true
+[INFO ] 2024-06-11 18:38:33.476 [main] SSCFLP_Test - GVNS: Value= 13187440.491, Gap = 104236.751, Average Execution Time = 9496962, Acceptable = true
+[INFO ] 2024-06-11 22:40:51.843 [main] SSCFLP_Test - GVNS: Value= 13202945.529, Gap = 119741.789, Average Execution Time = 14538348, Acceptable = true
+[INFO ] 2024-06-12 13:05:58.979 [main] SSCFLP_Test - GVNS: Value= 13202945.529, Gap = 119741.789, Average Execution Time = 51907102, Acceptable = true
+[INFO ] 2024-06-12 16:15:54.033 [main] SSCFLP_Test - GVNS: Value= 13209488.745, Gap = 126285.005, Average Execution Time = 11395032, Acceptable = true
+[INFO ] 2024-06-12 16:15:54.033 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-12 16:15:54.033 [main] SSCFLP_Test - GVNS: Best Value= 13187440.491, Gap = 104236.751, Average Execution Time = 18193242, Acceptable = true
+[INFO ] 2024-06-12 16:15:54.033 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-12 16:15:54.034 [main] SSCFLP_Test - Instance: capc1, Optimal value: 1.16474105E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-06-12 16:15:54.034 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-13 09:01:07.037 [main] SSCFLP_Test - GVNS: Value= 11724577.863, Gap = 77167.363, Average Execution Time = 60312980, Acceptable = true
+[INFO ] 2024-06-13 12:39:40.003 [main] SSCFLP_Test - GVNS: Value= 11726189.129, Gap = 78778.629, Average Execution Time = 13112939, Acceptable = true
+[INFO ] 2024-06-13 16:01:19.048 [main] SSCFLP_Test - GVNS: Value= 11726189.129, Gap = 78778.629, Average Execution Time = 12099005, Acceptable = true
+[INFO ] 2024-06-13 18:26:51.944 [main] SSCFLP_Test - GVNS: Value= 11726189.129, Gap = 78778.629, Average Execution Time = 8732878, Acceptable = true
+[INFO ] 2024-06-13 21:30:51.705 [main] SSCFLP_Test - GVNS: Value= 11726189.129, Gap = 78778.629, Average Execution Time = 11039731, Acceptable = true
+[INFO ] 2024-06-14 00:17:20.933 [main] SSCFLP_Test - GVNS: Value= 11724577.863, Gap = 77167.363, Average Execution Time = 9989192, Acceptable = true
+[INFO ] 2024-06-14 11:56:56.611 [main] SSCFLP_Test - GVNS: Value= 11726189.129, Gap = 78778.629, Average Execution Time = 41975660, Acceptable = true
+[INFO ] 2024-06-14 14:53:48.226 [main] SSCFLP_Test - GVNS: Value= 11726189.129, Gap = 78778.629, Average Execution Time = 10611581, Acceptable = true
+[INFO ] 2024-06-14 18:02:56.733 [main] SSCFLP_Test - GVNS: Value= 11726189.129, Gap = 78778.629, Average Execution Time = 11348451, Acceptable = true
+[INFO ] 2024-06-15 00:35:13.007 [main] SSCFLP_Test - GVNS: Value= 11726189.129, Gap = 78778.629, Average Execution Time = 23536257, Acceptable = true
+[INFO ] 2024-06-15 00:35:13.011 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-15 00:35:13.011 [main] SSCFLP_Test - GVNS: Best Value= 11724577.863, Gap = 77167.363, Average Execution Time = 20275867, Acceptable = true
+[INFO ] 2024-06-15 00:35:13.011 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-15 00:35:13.011 [main] SSCFLP_Test - Instance: capc2, Optimal value: 1.157043768E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-06-15 00:35:13.011 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-16 21:02:53.735 [main] SSCFLP_Test - GVNS: Value= 11577131.300, Gap = 6693.620, Average Execution Time = 160060701, Acceptable = true
+[INFO ] 2024-06-16 23:02:46.341 [main] SSCFLP_Test - GVNS: Value= 11577131.300, Gap = 6693.620, Average Execution Time = 7192507, Acceptable = true
+[INFO ] 2024-06-17 14:24:43.025 [main] SSCFLP_Test - GVNS: Value= 11577131.300, Gap = 6693.620, Average Execution Time = 55316669, Acceptable = true
+[INFO ] 2024-06-17 16:40:52.024 [main] SSCFLP_Test - GVNS: Value= 11591885.517, Gap = 21447.837, Average Execution Time = 8168984, Acceptable = true
+[INFO ] 2024-06-17 21:28:17.868 [main] SSCFLP_Test - GVNS: Value= 11577131.300, Gap = 6693.620, Average Execution Time = 17245830, Acceptable = true
+[INFO ] 2024-06-17 23:25:19.099 [main] SSCFLP_Test - GVNS: Value= 11577131.300, Gap = 6693.620, Average Execution Time = 7021215, Acceptable = true
+[INFO ] 2024-06-18 10:42:34.804 [main] SSCFLP_Test - GVNS: Value= 11619312.088, Gap = 48874.408, Average Execution Time = 40635680, Acceptable = true
+[INFO ] 2024-06-18 12:57:19.017 [main] SSCFLP_Test - GVNS: Value= 11577131.300, Gap = 6693.620, Average Execution Time = 8084164, Acceptable = true
+[INFO ] 2024-06-18 15:31:19.779 [main] SSCFLP_Test - GVNS: Value= 11577131.300, Gap = 6693.620, Average Execution Time = 9240748, Acceptable = true
+[INFO ] 2024-06-18 17:24:12.394 [main] SSCFLP_Test - GVNS: Value= 11577131.300, Gap = 6693.620, Average Execution Time = 6772600, Acceptable = true
+[INFO ] 2024-06-18 17:24:12.394 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-18 17:24:12.394 [main] SSCFLP_Test - GVNS: Best Value= 11577131.300, Gap = 6693.620, Average Execution Time = 31973909, Acceptable = true
+[INFO ] 2024-06-18 17:24:12.394 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-18 17:24:12.394 [main] SSCFLP_Test - Instance: capc3, Optimal value: 1.151916978E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-06-18 17:24:12.394 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-18 20:43:56.320 [main] SSCFLP_Test - GVNS: Value= 11569716.519, Gap = 50546.739, Average Execution Time = 11983832, Acceptable = true
+[INFO ] 2024-06-18 22:46:33.346 [main] SSCFLP_Test - GVNS: Value= 11569716.519, Gap = 50546.739, Average Execution Time = 7357007, Acceptable = true
+[INFO ] 2024-06-19 11:09:47.982 [main] SSCFLP_Test - GVNS: Value= 11569716.519, Gap = 50546.739, Average Execution Time = 44594624, Acceptable = true
+[INFO ] 2024-06-19 13:28:40.161 [main] SSCFLP_Test - GVNS: Value= 11569716.519, Gap = 50546.739, Average Execution Time = 8332128, Acceptable = true
+[INFO ] 2024-06-19 15:28:38.970 [main] SSCFLP_Test - GVNS: Value= 11571390.466, Gap = 52220.686, Average Execution Time = 7198797, Acceptable = true
+[INFO ] 2024-06-19 17:22:27.161 [main] SSCFLP_Test - GVNS: Value= 11569716.519, Gap = 50546.739, Average Execution Time = 6828178, Acceptable = true
+[INFO ] 2024-06-19 20:00:43.280 [main] SSCFLP_Test - GVNS: Value= 11569716.519, Gap = 50546.739, Average Execution Time = 9496104, Acceptable = true
+[INFO ] 2024-06-19 22:52:58.741 [main] SSCFLP_Test - GVNS: Value= 11569716.519, Gap = 50546.739, Average Execution Time = 10335448, Acceptable = true
+[INFO ] 2024-06-20 12:09:22.207 [main] SSCFLP_Test - GVNS: Value= 11571390.466, Gap = 52220.686, Average Execution Time = 47783425, Acceptable = true
+[INFO ] 2024-06-20 15:35:38.803 [main] SSCFLP_Test - GVNS: Value= 11571390.466, Gap = 52220.686, Average Execution Time = 12376583, Acceptable = true
+[INFO ] 2024-06-20 15:35:38.803 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-20 15:35:38.803 [main] SSCFLP_Test - GVNS: Best Value= 11569716.519, Gap = 50546.739, Average Execution Time = 16628612, Acceptable = true
+[INFO ] 2024-06-20 15:35:38.803 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-20 15:35:38.803 [main] SSCFLP_Test - Instance: capc4, Optimal value: 1.150586186E7, maxIterations: 10, kMax: 3, lMax: 3, numOfExecutions: 10
+[INFO ] 2024-06-20 15:35:38.803 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-20 19:23:34.147 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 13675311, Acceptable = true
+[INFO ] 2024-06-21 09:58:51.912 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 52517749, Acceptable = true
+[INFO ] 2024-06-21 13:28:10.285 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 12558350, Acceptable = true
+[INFO ] 2024-06-21 18:01:00.765 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 16370463, Acceptable = true
+[INFO ] 2024-06-21 23:24:31.468 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 19410686, Acceptable = true
+[INFO ] 2024-06-22 19:22:01.966 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 71850466, Acceptable = true
+[INFO ] 2024-06-24 11:22:53.992 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 144051999, Acceptable = true
+[INFO ] 2024-06-24 16:15:20.393 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 17546360, Acceptable = true
+[INFO ] 2024-06-24 23:56:27.513 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 27667087, Acceptable = true
+[INFO ] 2024-06-25 19:08:13.400 [main] SSCFLP_Test - GVNS: Value= 11510062.070, Gap = 4200.210, Average Execution Time = 69105863, Acceptable = true
+[INFO ] 2024-06-25 19:08:13.400 [main] SSCFLP_Test - ==========================================================================================================
+[INFO ] 2024-06-25 19:08:13.400 [main] SSCFLP_Test - GVNS: Best Value= 11510062.070, Gap = 4200.210, Average Execution Time = 44475433, Acceptable = true
+[INFO ] 2024-06-25 19:08:13.400 [main] SSCFLP_Test - ==========================================================================================================
